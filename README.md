@@ -13,11 +13,12 @@ I believe your pets golden years should be handled with dignity, patience, and a
  #New Tab INSPRITATION
  INSERT PHOTO OF MAZZY
 Sunset Paws was born from a journey of love. Caring for my own dog, Mazzy, through her senior years and mobility challenges was my greatest honor. She taught me that special-needs pets don't just need a pet sitter. They need a witness and a steady hand. Every pet I care for is treated with the same devotion I gave to her.
+
 ----------------------------------------------------------------------------------------------------------------
 
 
 #New Tab STANDARDS/Certifications
-# Trust Badges (place these logos for fear free, and PSI and Animal Pad):
+#add trust badges (place logos for fear free, CPR and PSI and Animal Pad)
 Pet CPR and first aid Certified Handling
 Fear Free Certified Approaches
 Reliable Medication & Supplement Administration
