@@ -1,13 +1,13 @@
-#HOME  Specialized Respite for the Golden Years.
+#HOME 
+Headline: Specialized Respite for the Golden Years
 Professional, stationary care for senior and special needs pets in San Diego.
 
-By day, I am a remote professional. This allows me to offer a unique Stationary Care model. When I care for your pet, I am not just dropping in; I am moving my office to your home. This ensures your pet has 1:1 supervision for the duration of my stay, allowing me to monitor their comfort, anxiety levels, and mobility in real time. I provide the compassionate, focused attention for aging and disabled furry companions who need to remain comfortable in their own familiar home. I offer a judgment-free, patient approach that honors their dignity and provides you with true peace of mind while you are away. Being the primary caregiver for a senior or disabled pet is an act of profound love, but it is also exhausting. I know the weight of the what ifs and the anxiety of leaving for a few hours, the missed dinners, and the canceled trips.
+Being the primary caregiver for a senior or disabled pet is an act of profound love, but it is also exhausting. I know the weight of the 'what ifs'—the anxiety of leaving for a few hours, the missed dinners, and the canceled trips.
 
-I founded Sunset Paws to give you your life back, even if just for a day. I am here to step into your shoes so you can breathe, rest, and recharge, knowing your pet is in hands that are as capable and compassionate as your own. I believe your pet's golden years should be handled with dignity, patience, and a lot of heart. I’m here to care for your family exactly the way I cared for mine.
+I founded Sunset Paws to give you your life back, even if just for a day. By day, I am a remote professional, which allows me to offer a unique Stationary Care model. I don’t just drop in; I move my office to your home. This ensures your pet has 1:1 supervision, allowing me to monitor their comfort, anxiety, and mobility in real time while you breathe, rest, and recharge.
+I believe your pet’s golden years should be handled with dignity and a lot of heart. I’m here to care for your family exactly the way I cared for mine.
 
-To ensure I am providing the highest standard of support, I am a dedicated supporter of the San Diego rescue community. I volunteer as a senior dog walker for Frosted Faces Senior pet rescue, and am currently becoming a specialized medical volunteer with The Animal Pad Rescue organization.
-
- Button: Schedule a Meet & Greet
+#Button: Schedule a Meet & Greet
  
  ----------------------------------------
 #Services
@@ -63,6 +63,10 @@ Ready to give yourself a break?
  INSERT PHOTO OF MAZZY
 Sunset Paws was born from a journey of love. Caring for my own dog, Mazzy, through her senior years and mobility challenges was my greatest honor. She taught me that special needs pets don't just need a pet sitter. They need a witness and a steady hand. #put that qoute in a different font to honor Mazzy "Every pet I care for is treated with the same devotion I gave to her."
 
+My time with Mazzy opened my eyes to the incredible resilience of senior and perfectly imperfect animals. This passion led me to dive deeper into the San Diego rescue community. Today, I am proud to serve as a Senior Dog Walker for Frosted Faces Foundation and am currently moving through specialized medical volunteer training with The Animal Pad.
+
+These experiences allow me to turn my personal love for Mazzy into a professional standard of care. Whether I am navigating a complex medication schedule or providing a calm presence for a dog with 'sundowning' anxiety, I am doing it to honor her legacy and the seniors who paved the way
+
 ----------------------------------------------------------------------------------------------------------------
 
 #New Tab STANDARDS/Certifications
@@ -80,6 +84,12 @@ Daily wellness logs & progress updates
 Professional member of Pet Sitters International (PSI)
 #Create a current impact counter or a small badge that says: "Proud supporter of The Animal Pad."
 #add trust badges (place logos for fear free, CPR and PSI and Animal Pad)
+
+I believe in giving back to the community that cares for our city's most vulnerable animals. I am proud to serve as a Senior Dog Walker for Frosted Faces Foundation and am currently moving through specialized medical-volunteer training with The Animal Pad. #Make sure the links open in a new tab.
+
+The Animal Pad (TAP): https://theanimalpad.org/volunteer/
+
+Frosted Faces Foundation: https://frostedfacesfoundation.org/volunteer/
 
 -----------------------------------------------------------
 #NewTab Contact (The "Next Step")
