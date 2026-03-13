@@ -3,7 +3,7 @@ Professional, stationary care for senior and special needs pets in San Diego.
 
 By day, I am a remote professional. This allows me to offer a unique Stationary Care model. When I care for your pet, I am not just dropping in; I am moving my office to your home. This ensures your pet has 1:1 supervision for the duration of my stay, allowing me to monitor their comfort, anxiety levels, and mobility in real time. I provide the compassionate, focused attention for aging and disabled furry companions who need to remain comfortable in their own familiar home. I offer a judgment-free, patient approach that honors their dignity and provides you with true peace of mind while you are away. Being the primary caregiver for a senior or disabled pet is an act of profound love, but it is also exhausting. I know the weight of the what ifs and the anxiety of leaving for a few hours, the missed dinners, and the canceled trips.
 
-I founded Sunset Paws to give you your life back, even if just for a day. I am here to step into your shoes so you can breathe, rest, and recharge, knowing your pet is in hands that are as capable and compassionate as your own. I believe your pets golden years should be handled with dignity, patience, and a lot of heart. I’m here to care for your family exactly the way I cared for mine.
+I founded Sunset Paws to give you your life back, even if just for a day. I am here to step into your shoes so you can breathe, rest, and recharge, knowing your pet is in hands that are as capable and compassionate as your own. I believe your pet's golden years should be handled with dignity, patience, and a lot of heart. I’m here to care for your family exactly the way I cared for mine.
 
 To ensure I am providing the highest standard of support, I am a dedicated supporter of the San Diego rescue community. I volunteer as a senior dog walker for Frosted Faces Senior pet rescue, and am currently becoming a specialized medical volunteer with The Animal Pad Rescue organization.
 
@@ -28,10 +28,11 @@ Best For: When you need to run errands, attend a doctor's appointment, or simply
 The Stationary Day (Our Signature Service)
 Duration: Full Workday (~8 Hours)
 Rate: $150
-Best For: Working professionals who need peace of mind. I remain onsite with your pet for the entire day, providing continuous companionship, monitoring for "sundowning" or anxiety, and assisting with all medical/mobility needs while I work my remote job from your home.
+Best For: Working professionals who need peace of mind. I remain onsite with your pet for the entire day, providing continuous companionship, monitoring for "sundowning" or anxiety, and assisting with all medical/mobility needs while I work my remote job from your home. 
+To maintain this consistent presence, I only ask for a dedicated workspace and access to reliable Wi-Fi so I can remain onsite with your pet while I work my remote job.
 
 The Legacy Stay (Overnight)
-Duration: 24Hour Period
+Duration: 24 Hour Period
 Rate: Starting at $220
 Best For: Traveling owners or pets in intensive recovery/hospice care. This is a 1-on-1, private nurse style service for pets who cannot be left alone.
 
@@ -39,12 +40,12 @@ Best For: Traveling owners or pets in intensive recovery/hospice care. This is a
 Specialized Travel Support
 The Traveling Companion
 Rate: Custom Quote Required
-Description: Want to take your senior pet to Tahoe or the coast but need help managing their care? I am available to travel with you as a dedicated care specialist to handle medications and mobility at your destination so you can enjoy the trip and your pet can enjor the change of scenery safely.
+Description: Want to take your senior pet to Tahoe or the coast but need help managing their care? I am available to travel with you as a dedicated care specialist to handle medications and mobility at your destination so you can enjoy the trip and your pet can enjoy the change of scenery safely.
 The Details
 Standard with every visit: Administration of all oral/topical medications, mobility assistance (slings/carts), and detailed wellness logs sent to you via text or email.
 
 Holiday Rates: A 50% surcharge applies to major holidays.
-Last-Minute Bookings: Requests made with less than 24 hours' notice may incur an additional fee.
+Last-Minute Bookings: Requests made with less than 24 hours notice may incur an additional fee.
 
 The Mazzy Legacy: A portion of every service fee is donated to The Animal Pad to support rescue dogs in need of medical care.
 
@@ -55,20 +56,25 @@ Ready to give yourself a break?
  
  #New Tab INSPRITATION
  INSERT PHOTO OF MAZZY
-Sunset Paws was born from a journey of love. Caring for my own dog, Mazzy, through her senior years and mobility challenges was my greatest honor. She taught me that special needs pets don't just need a pet sitter. They need a witness and a steady hand. Every pet I care for is treated with the same devotion I gave to her.
+Sunset Paws was born from a journey of love. Caring for my own dog, Mazzy, through her senior years and mobility challenges was my greatest honor. She taught me that special needs pets don't just need a pet sitter. They need a witness and a steady hand. #put that qoute in a different font to honor Mazzy "Every pet I care for is treated with the same devotion I gave to her."
 
 ----------------------------------------------------------------------------------------------------------------
 
 #New Tab STANDARDS/Certifications
-#add trust badges (place logos for fear free, CPR and PSI and Animal Pad)
-Pet CPR and first aid certified handling
-Fear Free Certified approaches
-Reliable medication & supplement administration
-Patience with mobility support & assistance (harnesses, slings)
-Cognitive support & comfort care for sundowning or anxiety
+🛡️ Safety First: Red Cross Pet CPR & First Aid Certified.
+
+🧘 Fear Free Care: Specialized training to reduce anxiety and stress in senior pets.
+
+💊 Medical Management: Reliable administration of all medications and supplements.
+
+🦼 Mobility Support: Expert assistance with harnesses, slings, and carts.
+
+🧠 Cognitive Care: Dedicated support for pets experiencing "sundowning" or dementia.
+
 Daily wellness logs & progress updates
 Professional member of Pet Sitters International (PSI)
 #Create a current impact counter or a small badge that says: "Proud supporter of The Animal Pad."
+#add trust badges (place logos for fear free, CPR and PSI and Animal Pad)
 
 ----------------------------------------------------
 
@@ -82,6 +88,9 @@ Your Name & Phone
 Pet's Name, Age, and Breed
 Primary Medical or Mobility Concerns
 General Dates/Times needed
+
+#New Field: Is there a quiet workspace and Wi-Fi available for my remote office?(Yes/No)
+#New Field: How did you hear about us? 
 
 Footer: Serving the San Diego area. Fully Insured
 
