@@ -33,7 +33,7 @@ To maintain this consistent presence, I only ask for a dedicated workspace and a
 
 The Legacy Stay (Overnight)
 Duration: 24 Hour Period
-Rate: Starting at $220
+Rate: Starting at $225
 Best For: Traveling owners or pets in intensive recovery/hospice care. This is a 1-on-1, private nurse style service for pets who cannot be left alone.
 
 
@@ -45,9 +45,14 @@ The Details
 Standard with every visit: Administration of all oral/topical medications, mobility assistance (slings/carts), and detailed wellness logs sent to you via text or email.
 
 Holiday Rates: A 50% surcharge applies to major holidays.
-Last-Minute Bookings: Requests made with less than 24 hours notice may incur an additional fee.
+Last minute Bookings: Requests made with less than 24 hours notice may incur an additional fee.
 
-The Mazzy Legacy: A portion of every service fee is donated to The Animal Pad to support rescue dogs in need of medical care.
+The Mazzy Legacy: 
+A portion of every service goes toward The Animal Pad’s Medical Fund, specifically helping senior rescues get the dental work or mobility aids they need to find their forever homes
+Respite Break ($75): $10 to TAP
+Stationary Day ($150): $25 to TAP
+Legacy Stay ($225): $50 to TAP
+
 
 Ready to give yourself a break?
 [Button: Inquire About Availability]
@@ -75,9 +80,6 @@ Daily wellness logs & progress updates
 Professional member of Pet Sitters International (PSI)
 #Create a current impact counter or a small badge that says: "Proud supporter of The Animal Pad."
 #add trust badges (place logos for fear free, CPR and PSI and Animal Pad)
-
-----------------------------------------------------
-
 
 -----------------------------------------------------------
 #NewTab Contact (The "Next Step")
