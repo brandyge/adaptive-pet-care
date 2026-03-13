@@ -8,3 +8,30 @@ To ensure I am providing the highest standard of support, I am a dedicated suppo
 I believe your pets golden years should be handled with dignity, patience, and a lot of heart. I’m here to care for your family exactly the way I cared for mine.
 
  Button: Schedule a Meet & Greet
+ 
+---------------------------------------------------------------------------------------------
+ #New Tab INSPRITATION
+ INSERT PHOTO OF MAZZY
+Sunset Paws was born from a journey of love. Caring for my own dog, Mazzy, through her senior years and mobility challenges was my greatest honor. She taught me that special-needs pets don't just need a pet sitter. They need a witness and a steady hand. Every pet I care for is treated with the same devotion I gave to her.
+----------------------------------------------------------------------------------------------------------------
+
+
+#New Tab STANDARDS/Certifications
+# Trust Badges (place these logos for fear free, and PSI and Animal Pad):
+Pet CPR and first aid Certified Handling
+Fear Free Certified Approaches
+Reliable Medication & Supplement Administration
+Patience with Mobility Support & Assistance (Harnesses, Slings)
+Cognitive Support & Comfort Care for "Sundowning" or Anxiety
+Daily Wellness Logs & Progress Updates
+Professional Member of Pet Sitters International (PSI)
+
+Create a Current Impact counter or a small badge that says: Proud Supporter of The Animal Pad.
+
+My service is designed around consistent, calming supervision. For seniors who cannot be left alone, this means I am always present and focused on their needs. Give Your senior pet the gift of a Rest, knowing they are in safe, gentle hands.
+Call/Text for a Free, Compassionate Consultation
+
+
+
+
+
