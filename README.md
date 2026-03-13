@@ -12,26 +12,36 @@ I believe your pets golden years should be handled with dignity, patience, and a
 ---------------------------------------------------------------------------------------------
  #New Tab INSPRITATION
  INSERT PHOTO OF MAZZY
-Sunset Paws was born from a journey of love. Caring for my own dog, Mazzy, through her senior years and mobility challenges was my greatest honor. She taught me that special-needs pets don't just need a pet sitter. They need a witness and a steady hand. Every pet I care for is treated with the same devotion I gave to her.
+Sunset Paws was born from a journey of love. Caring for my own dog, Mazzy, through her senior years and mobility challenges was my greatest honor. She taught me that special needs pets don't just need a pet sitter. They need a witness and a steady hand. Every pet I care for is treated with the same devotion I gave to her.
 
 ----------------------------------------------------------------------------------------------------------------
 
 
 #New Tab STANDARDS/Certifications
 #add trust badges (place logos for fear free, CPR and PSI and Animal Pad)
-Pet CPR and first aid Certified Handling
-Fear Free Certified Approaches
-Reliable Medication & Supplement Administration
-Patience with Mobility Support & Assistance (Harnesses, Slings)
-Cognitive Support & Comfort Care for "Sundowning" or Anxiety
-Daily Wellness Logs & Progress Updates
-Professional Member of Pet Sitters International (PSI)
+Pet CPR and first aid certified handling
+Fear Free Certified approaches
+Reliable medication & supplement administration
+Patience with mobility support & assistance (harnesses, slings)
+Cognitive support & comfort care for sundowning or anxiety
+Daily wellness logs & progress updates
+Professional member of Pet Sitters International (PSI)
 
-Create a Current Impact counter or a small badge that says: Proud Supporter of The Animal Pad.
+#Create a current impact counter or a small badge that says: "Proud supporter of The Animal Pad."
 
-My service is designed around consistent, calming supervision. For seniors who cannot be left alone, this means I am always present and focused on their needs. Give Your senior pet the gift of a Rest, knowing they are in safe, gentle hands.
-Call/Text for a Free, Compassionate Consultation
+My service is designed around consistent, calming supervision. For seniors who cannot be left alone, this means I am always present and focused on their needs. Give your senior pet the gift of a rest, knowing they are in safe, gentle hands.
+Call/Text for a Free, compassionate consultation
 
+#NewTab Contact (The "Next Step")
+#Headline: Let’s discuss Your Pet’s unique needs.
+
+A simple form with these fields:
+Your Name & Phone
+Pet's Name, Age, and Breed
+Primary Medical or Mobility Concerns
+General Dates/Times needed
+
+Footer: Serving the San Diego area. Fully Insured
 
 
 
