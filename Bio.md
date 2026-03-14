@@ -37,6 +37,8 @@ Best for: Dedicated care support for senior pets on trips to Tahoe or the coast.
 
 The Details:
 
+Hygiene Maintenance: Gentle sanitary cleanup and waterless or sponge-bathing for senior pets to ensure they remain clean, comfortable, and dignified between professional grooming appointments.
+
 Holiday Rates: A 50% surcharge applies to major holidays.
 
 Last-minute Bookings: Requests with less than 24 hours' notice may incur an additional fee.
