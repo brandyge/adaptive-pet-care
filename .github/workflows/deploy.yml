@@ -1,0 +1,26 @@
+name: Deploy to Cloudflare Workers
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      
+      - name: Install Wrangler
+        run: npm install -g wrangler
+      
+      - name: Login to Cloudflare
+        run: wrangler login --api-token ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      
+      - name: Deploy Worker
+        run: wrangler deploy
+
