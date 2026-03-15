@@ -1,6 +1,7 @@
 :root {
   --title-color: #1d1d18;
   --hero-color: #a19982;
+  --hero-title-color: white;
 }
 * {
   margin: 0;
@@ -13,11 +14,14 @@ body {
   background-color: #fdf8f4;
   color: #3a2e28;
   line-height: 1.7;
+  display: flex;
+  flex-direction: column;
 }
+
 
 header {
   background-color: var(--hero-color);
-  color: white;
+  color: var(--hero-title-color);
   padding: 2rem;
   text-align: center;
 }
@@ -44,7 +48,6 @@ main {
 
 h2 {
   font-size: 1.75rem;
-  color: var(--title-color);
   margin-bottom: 1.5rem;
   line-height: 1.3;
 }
@@ -61,7 +64,7 @@ footer {
   font-size: 0.85rem;
   color: var(--title-color);
   border-top: 1px solid #e8ddd5;
-  margin-top: 4rem;
+  margin-top: auto;
 }
 
 /* just adding some temp backgorund iamges */
