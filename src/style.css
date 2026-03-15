@@ -34,6 +34,7 @@ main {
   max-width: 720px;
   margin: 4rem auto;
   padding: 0 2rem;
+  position: relative;
 }
 
 h2 {
@@ -56,4 +57,17 @@ footer {
   color: #9a8070;
   border-top: 1px solid #e8ddd5;
   margin-top: 4rem;
+}
+
+/* just adding some temp backgorund iamges */
+main::after {
+  content: '';
+  background-image: url('/src/assets/images/mazzy-63.jpg');
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  border: 5px solid black;
 }
