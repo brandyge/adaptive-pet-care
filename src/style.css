@@ -2,6 +2,7 @@
   --title-color: #1d1d18;
   --hero-color: #a19982;
   --hero-title-color: white;
+  --accent-color: #690a02;
 }
 * {
   margin: 0;
@@ -79,4 +80,17 @@ body::after {
   height: 300px;
   border-radius: 50%;
   border: 5px solid black;
+}
+
+.contact-link {
+  color: white;
+  background-color: var(--accent-color);
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 3px 3px 8px 0 rgba(0, 0, 0, 0.3);
+  &:hover {
+    box-shadow: unset;
+  }
 }
