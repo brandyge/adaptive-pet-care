@@ -1,0 +1,111 @@
+{{> page-top title="Styleguide — Sunset Paws" bodyClass="page-styleguide"}}
+
+  <main class="styleguide">
+    <h1>Sunset Paws Styleguide</h1>
+
+    <!-- Colors -->
+    <section class="sg-section">
+      <h2>Colors</h2>
+
+      <h3>Backgrounds</h3>
+      <div class="sg-color-grid">
+        <div class="sg-swatch" style="background-color: #F4EBD6;">
+          <span class="sg-swatch-label sg-dark-text">--color-bg-primary</span>
+          <span class="sg-swatch-hex sg-dark-text">#F4EBD6</span>
+        </div>
+        <div class="sg-swatch" style="background-color: #E6D7B8;">
+          <span class="sg-swatch-label sg-dark-text">--color-bg-secondary</span>
+          <span class="sg-swatch-hex sg-dark-text">#E6D7B8</span>
+        </div>
+      </div>
+
+      <h3>Text</h3>
+      <div class="sg-color-grid">
+        <div class="sg-swatch" style="background-color: #3B322C;">
+          <span class="sg-swatch-label sg-light-text">--color-text-primary</span>
+          <span class="sg-swatch-hex sg-light-text">#3B322C</span>
+        </div>
+      </div>
+
+      <h3>Brand</h3>
+      <div class="sg-color-grid">
+        <div class="sg-swatch" style="background-color: #5E7D5A;">
+          <span class="sg-swatch-label sg-light-text">--color-primary</span>
+          <span class="sg-swatch-hex sg-light-text">#5E7D5A</span>
+        </div>
+        <div class="sg-swatch" style="background-color: #4A6447;">
+          <span class="sg-swatch-label sg-light-text">--color-primary-hover</span>
+          <span class="sg-swatch-hex sg-light-text">#4A6447</span>
+        </div>
+        <div class="sg-swatch" style="background-color: #A3B18A;">
+          <span class="sg-swatch-label sg-dark-text">--color-secondary</span>
+          <span class="sg-swatch-hex sg-dark-text">#A3B18A</span>
+        </div>
+      </div>
+
+      <h3>Accents</h3>
+      <div class="sg-color-grid">
+        <div class="sg-swatch" style="background-color: #C96F3A;">
+          <span class="sg-swatch-label sg-light-text">--color-accent</span>
+          <span class="sg-swatch-hex sg-light-text">#C96F3A</span>
+        </div>
+        <div class="sg-swatch" style="background-color: #D8A25E;">
+          <span class="sg-swatch-label sg-dark-text">--color-accent-soft</span>
+          <span class="sg-swatch-hex sg-dark-text">#D8A25E</span>
+        </div>
+        <div class="sg-swatch" style="background-color: #6B7C93;">
+          <span class="sg-swatch-label sg-light-text">--color-accent-cool</span>
+          <span class="sg-swatch-hex sg-light-text">#6B7C93</span>
+        </div>
+      </div>
+    </div>
+    </section>
+
+    <!-- Components -->
+    <section class="sg-section">
+      <h2>Components</h2>
+
+      <div class="sg-component">
+        <h3>cta-button</h3>
+        <p>A call-to-action link styled as a button. Used for primary actions like contact links.</p>
+
+        <h4>Example</h4>
+        <div class="sg-example">
+          {{> cta-button body="Contact Me" className="contact-link" href="mailto:requests@sunsetpaws.pet"}}
+        </div>
+
+        <h4>Properties</h4>
+        <table class="sg-prop-table">
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Description</th>
+              <th>Example</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><code>body</code></td>
+              <td>Button label text</td>
+              <td><code>"Contact Me"</code></td>
+            </tr>
+            <tr>
+              <td><code>href</code></td>
+              <td>Link destination</td>
+              <td><code>"mailto:requests@sunsetpaws.pet"</code></td>
+            </tr>
+            <tr>
+              <td><code>className</code></td>
+              <td>Additional CSS class(es)</td>
+              <td><code>"contact-link"</code></td>
+            </tr>
+          </tbody>
+        </table>
+
+        <h4>Usage</h4>
+        <pre class="sg-code"><code>&#123;&#123;&gt; cta-button body="Contact Me" className="contact-link" href="mailto:requests@sunsetpaws.pet"&#125;&#125;</code></pre>
+      </div>
+    </section>
+  </main>
+
+{{> page-bottom}}

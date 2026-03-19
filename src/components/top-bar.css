@@ -1,8 +1,12 @@
 .top-bar {
     position: relative;
     display: flex;
-    padding: 20px 20px 0 0;
+    padding: 10px 20px 10px 0;
+    --top-bar-background-color: var(--color-secondary);
+
+    background-color: var(--top-bar-background-color);
 }
+
 .top-bar .site-nav {
     margin-left: auto;
 }
