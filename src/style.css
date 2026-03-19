@@ -3,6 +3,7 @@
 @import './components/footer.css';
 @import './components/top-bar.css';
 @import './components/gallery.css';
+@import './components/contact-form.css';
 @import './colors.css';
 
 :root {

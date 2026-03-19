@@ -16,6 +16,15 @@
     margin: 0 auto;
   }
 
+.extended-layout-container {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+
 img {
     max-width: 100%;
+}
+
+a {
+    color: var(--color-text-primary);
 }
