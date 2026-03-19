@@ -15,7 +15,8 @@
 }
 
 .site-nav a {
-  padding: 8px 16px;
+  padding: 5px 7px;
+  font-size: 14px;
   text-decoration: none;
   color: var(--site-nav-link-text-color);
   border-radius: 999px;
@@ -25,4 +26,11 @@
 .site-nav a:hover {
   background-color: var(--site-nav-link-hover-background-color);
   color: var(--site-nav-link-text-hover-color)
+}
+
+@media screen and (min-width: 768px) {
+  .site-nav a {
+    padding: 8px 16px;
+    font-size: var(--body-copy-font-size);
+  }
 }
