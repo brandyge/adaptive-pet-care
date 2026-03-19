@@ -1,0 +1,30 @@
+:root {
+    /* Global Navigation */
+    --nav-height: 52px;
+
+    --hero-color: #a19982;
+    --hero-title-color: white;
+    --accent-color: #690a02;
+
+    /* Font Stuff */
+    --fancy-font-family: "Leckerli One", cursive;
+    --regular-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+  
+.layout-container {
+    max-width: 720px;
+    margin: 0 auto;
+  }
+
+.extended-layout-container {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+
+img {
+    max-width: 100%;
+}
+
+a {
+    color: var(--color-text-primary);
+}

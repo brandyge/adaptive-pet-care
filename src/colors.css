@@ -1,0 +1,17 @@
+:root {
+    /* backgrounds */
+  --color-bg-primary: #F4EBD6;
+  --color-bg-secondary: #E6D7B8;
+
+  /* text */
+  --color-text-primary: #3B322C;
+
+  /* brand */
+  --color-primary: #5E7D5A;
+  --color-primary-hover: #4A6447;
+  --color-secondary: #A3B18A;
+
+  /* accents */
+  --color-accent: #C96F3A;
+  --color-accent-soft: #D8A25E;
+}

@@ -1,0 +1,23 @@
+.site-nav {
+  background: white;
+  border-radius: 999px;
+  padding: 4px;
+}
+
+.site-nav ul {
+  display: flex;
+  gap: 10px;
+  list-style: none;
+}
+
+.site-nav a {
+  padding: 8px 16px;
+  text-decoration: none;
+  color: var(--title-color);
+  border-radius: 999px;
+  display: block;
+}
+
+.site-nav a:hover {
+  background-color: #f0ede8;
+}
