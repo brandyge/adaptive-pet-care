@@ -1,0 +1,27 @@
+.paw-print-logo {
+    --logo-color: var(--color-text-primary);
+
+    display: none;
+    align-items: center;
+    height: 80px;
+    overflow: hidden;
+}
+
+.paw-print-logo span {
+    display: none; /* !!!TO-DO!!! hiding this for now becuase it feels redundant with the hero sunsetpaws text */
+    font-family: var(--fancy-font-family);
+    font-size: 30px;
+    color: var(--logo-color);
+}
+
+.paw-print-logo .paw-print-group-icon {
+    width: 80px;
+    transform: rotateZ(-24deg);
+    fill: var(--color-primary-hover);
+}
+
+@media screen and (min-width: 768px) {
+    .paw-print-logo {
+        display: flex;
+    }
+}

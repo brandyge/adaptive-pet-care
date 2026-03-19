@@ -1,7 +1,13 @@
 .top-bar {
     position: relative;
     display: flex;
+<<<<<<< Updated upstream
     padding: 10px 20px 10px 0;
+=======
+    justify-content: center;
+    align-items: center;
+    padding-block: 10px;
+>>>>>>> Stashed changes
     --top-bar-background-color: var(--color-secondary);
 
     background-color: var(--top-bar-background-color);
