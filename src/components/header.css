@@ -14,9 +14,7 @@ header {
 }
 
 header .header-inner-wrapper {
-  display: flex;
-  align-items: center;
-  gap: 1.2rem;
+  text-align: center;
   padding-block: 50px;
 }
 
@@ -40,4 +38,13 @@ header p.owner {
   font-size: 1rem;
   opacity: 0.85;
   font-style: italic;
+}
+
+@media screen and (min-width: 768px) {
+  header .header-inner-wrapper {
+    text-align: unset;
+    display: flex;
+    align-items: center;
+    gap: 1.2rem;
+  }
 }

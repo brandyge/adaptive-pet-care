@@ -3,6 +3,12 @@
     --nav-height: 52px;
 
     --body-copy-font-color: var(--color-text-primary);
+
+    /* Breakpoings: can't use css vars in media queires, so this is just informational  */
+    /*
+      mobile bp: 768px;
+    */
+    
 }
 
 * {
@@ -20,7 +26,7 @@ main {}
 
 .layout-container {
     max-width: 720px;
-    margin: 0 auto;
+    margin-inline: 20px;
   }
 
 .extended-layout-container {
@@ -34,5 +40,15 @@ img {
 
 a {
     color: var(--color-text-primary);
+}
+
+ul {
+  margin-left: 1em;
+}
+
+@media screen and (min-width: 768px) {
+  .layout-container {
+    margin-inline: auto;
+  }
 }
 

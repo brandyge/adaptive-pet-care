@@ -1,12 +1,19 @@
 .top-bar {
     position: relative;
     display: flex;
-    padding: 10px 20px 10px 0;
+    justify-content: center;
+    padding-block: 10px;
     --top-bar-background-color: var(--color-secondary);
 
     background-color: var(--top-bar-background-color);
 }
 
-.top-bar .site-nav {
-    margin-left: auto;
+@media screen and (min-width: 768px) {
+    .top-bar {
+        justify-content: unset;
+        padding-right: 20px;
+    }
+    .top-bar .site-nav {
+        margin-left: auto;
+    }
 }
