@@ -1,9 +1,14 @@
+@import './components/header.css';
+@import './components/nav.css';
+@import './components/footer.css';
+@import './components/top-bar.css';
+@import './components/gallery.css';
+@import './colors.css';
+
 :root {
   --title-color: #1d1d18;
-  --hero-color: #a19982;
-  --hero-title-color: white;
-  --accent-color: #690a02;
 }
+
 * {
   margin: 0;
   padding: 0;
@@ -11,38 +16,14 @@
 }
 
 body {
-  font-family: Georgia, 'Times New Roman', serif;
+  font-family: var(--regular-font-family);
   background-color: #fdf8f4;
-  color: #3a2e28;
+  color: var(--color-text-primary);
   line-height: 1.7;
-  display: flex;
-  flex-direction: column;
 }
 
-
-header {
-  background-color: var(--hero-color);
-  color: var(--hero-title-color);
-  padding: 2rem;
-  text-align: center;
-}
-
-header h1 {
-  font-size: 2.8rem;
-  letter-spacing: 0.05em;
-  margin-bottom: 0.25rem;
-}
-
-header p.owner {
-  font-size: 1rem;
-  opacity: 0.85;
-  font-style: italic;
-}
 
 main {
-  max-width: 720px;
-  margin: 4rem auto;
-  padding: 0 2rem;
   background-color: rgba(255, 255, 255, 0.1);
   backdrop-filter: blur(4px);
 }
@@ -56,30 +37,6 @@ h2 {
 p {
   margin-bottom: 1.25rem;
   font-size: 1.05rem;
-  color: var(--title-color);
-}
-
-footer {
-  text-align: center;
-  padding: 2rem;
-  font-size: 0.85rem;
-  color: var(--title-color);
-  margin-top: auto;
-}
-
-/* just adding some temp backgorund iamges */
-body::after {
-  content: '';
-  background-image: url('/images/mazzy-63.jpg');
-  background-size: cover;
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  z-index: -1;
-  width: 300px;
-  height: 300px;
-  border-radius: 50%;
-  border: 5px solid black;
 }
 
 .contact-link {
