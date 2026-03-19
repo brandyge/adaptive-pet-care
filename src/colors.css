@@ -1,4 +1,5 @@
 :root {
+  --white: white;
     /* backgrounds */
   --color-bg-primary: #F4EBD6;
   --color-bg-secondary: #E6D7B8;
@@ -14,4 +15,8 @@
   /* accents */
   --color-accent: #C96F3A;
   --color-accent-soft: #D8A25E;
+
+  /* cool accents */
+  --color-accent-cool: #6B7C93;
+
 }

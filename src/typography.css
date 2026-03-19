@@ -1,0 +1,49 @@
+:root {
+    /* Font Stuff */
+    --fancy-font-family: "Leckerli One", cursive;
+    --regular-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --secondary-fancy-font-family: "Chiron GoRound TC", sans-serif; /* <weight>: Use a value from 200 to 900 */
+
+    --body-copy-line-height: 1.5;
+    --body-copy-font-size: 18px;
+    --body-copy-font-family: var(--secondary-fancy-font-family);
+    --body-copy-p-vertical-spacing: 1.25rem;
+
+    --h1-font-size: 5rem;
+    --h1-font-weight: 400;
+    --h1-font-family: var(--fancy-font-family);
+    --h1-line-height: 1;
+
+    --h2-font-size: 1.75rem;
+    --h2-font-weight: 400;
+    --h2-font-family: var(--secondary-fancy-font-family);
+    --h2-line-height: 1;
+}
+
+body {
+    font-family: var(--body-copy-font-family);
+    line-height: var(--body-copy-line-height);
+    font-size: var(--body-copy-font-size);
+}
+
+h1 {
+    font-size: var(--h1-font-size);
+    font-family: var(--h1-font-family);
+    font-weight: var(--h1-font-weight);
+    line-height: var(--h1-line-height);
+    margin: unset;
+}
+
+h2 {
+    font-size: var(--h2-font-size);
+    font-weight: var(--h2-font-weight);
+    font-family: var(--h2-font-family);
+    line-height: var(--h2-line-height);
+    font-optical-sizing: auto;
+    font-style: normal;
+    margin: unset;
+}
+
+p {
+    margin-bottom: var(--body-copy-p-vertical-spacing);
+}

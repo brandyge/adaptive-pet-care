@@ -1,0 +1,108 @@
+.page-styleguide .styleguide {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+.page-styleguide h1 {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+.sg-section {
+  margin-bottom: 3rem;
+}
+
+.sg-section h3 {
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  opacity: 0.7;
+}
+
+/* Color swatches */
+.sg-color-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.sg-swatch {
+  aspect-ratio: 1;
+  border-radius: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 0.75rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  gap: 0.25rem;
+}
+
+.sg-swatch-label,
+.sg-swatch-hex {
+  font-family: monospace;
+  font-size: 0.75rem;
+  line-height: 1.3;
+}
+
+.sg-dark-text {
+  color: var(--color-text-primary);
+}
+
+.sg-light-text {
+  color: #fff;
+}
+
+/* Component cards */
+.sg-component {
+  margin-top: 1.5rem;
+}
+
+.sg-component h4 {
+  margin-top: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.sg-example {
+  background: var(--color-bg-primary);
+  border: 1px solid var(--color-bg-secondary);
+  border-radius: 8px;
+  padding: 1.5rem;
+}
+
+/* Property table */
+.sg-prop-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+
+.sg-prop-table th,
+.sg-prop-table td {
+  text-align: left;
+  padding: 0.5rem 0.75rem;
+  border-bottom: 1px solid var(--color-bg-secondary);
+}
+
+.sg-prop-table th {
+  font-weight: 600;
+  background: var(--color-bg-secondary);
+}
+
+.sg-prop-table code {
+  font-size: 0.85rem;
+}
+
+/* Code snippet */
+.sg-code {
+  background: var(--color-text-primary);
+  color: var(--color-bg-primary);
+  padding: 1rem;
+  border-radius: 8px;
+  overflow-x: auto;
+  font-size: 0.85rem;
+  line-height: 1.5;
+}

@@ -2,15 +2,22 @@
     /* Global Navigation */
     --nav-height: 52px;
 
-    --hero-color: #a19982;
-    --hero-title-color: white;
-    --accent-color: #690a02;
-
-    /* Font Stuff */
-    --fancy-font-family: "Leckerli One", cursive;
-    --regular-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --body-copy-font-color: var(--color-text-primary);
 }
-  
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: var(--body-copy-font-color);
+}
+
+
+main {}
+
 .layout-container {
     max-width: 720px;
     margin: 0 auto;
@@ -28,3 +35,4 @@ img {
 a {
     color: var(--color-text-primary);
 }
+

@@ -1,27 +1,39 @@
 header {
-  /* Push the heading text below the nav */
-  padding-top: calc(var(--nav-height) + 20px);
   position: relative;
+
+  --title-font-size: var(--h1-font-size);
+  --title-font-weight: var(--h1-font-weight);
+  --title-font-family: var(--h1-font-family);
+  --title-line-height: var(--h1-line-height);
+  --title-font-color: var(--color-accent);
+  --subtitle-font-color: var(--color-text-primary);
+
+  background-color: var(--color-bg-primary);
+
+  margin-bottom: 40px;
+}
+
+header .header-inner-wrapper {
   display: flex;
   align-items: center;
-  gap: 1.5rem;
+  gap: 1.2rem;
+  padding-block: 50px;
 }
 
 .header-logo {
-  width: 200px;
-  height: 200px;
+  width: 280px;
+  height: 280px;
   object-fit: cover;
   border-radius: 50%;
   flex-shrink: 0;
 }
-  
-header h1 {
-  font-size: 2.8rem;
-  letter-spacing: 0.05em;
-  margin-bottom: 0.25rem;
-  font-family: var(--fancy-font-family);
-  font-weight: 400;
 
+header h1 {
+  color: var(--title-font-color);
+}
+
+header h2 {
+  color: var(--subtitle-font-color);
 }
 
 header p.owner {
