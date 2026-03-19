@@ -44,6 +44,10 @@ h2 {
     margin: unset;
 }
 
+h3 {
+    margin-top: 1rem;
+}
+
 p {
     margin-bottom: var(--body-copy-p-vertical-spacing);
 }
