@@ -13,6 +13,10 @@ header {
   margin-bottom: 40px;
 }
 
+header .header-text {
+  text-align: center;
+}
+
 header .header-inner-wrapper {
   display: flex;
   align-items: center;
@@ -47,5 +51,8 @@ header p.owner {
   header .header-inner-wrapper {
     align-items: center;
     flex-direction: row;
+  }
+  header .header-text {
+    text-align: unset;
   }
 }
