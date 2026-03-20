@@ -7,7 +7,8 @@
       "Bash(npm install:*)",
       "Bash(npm run:*)",
       "WebSearch",
-      "Bash(grep -r \"markdown\\\\|md-\\\\|marked\\\\|remark\\\\|unified\" /Users/johngolden/Public/sunsetpaws/adaptive-pet-care/ --include=*.json --include=*.js --include=*.ts)"
+      "Bash(grep -r \"markdown\\\\|md-\\\\|marked\\\\|remark\\\\|unified\" /Users/johngolden/Public/sunsetpaws/adaptive-pet-care/ --include=*.json --include=*.js --include=*.ts)",
+      "Bash(wc:*)"
     ]
   }
 }
