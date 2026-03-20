@@ -1,7 +1,16 @@
 import { basename, resolve } from 'path'
-import { globSync } from 'fs'
+import { globSync, readFileSync } from 'fs'
 import { defineConfig } from 'vite'
 import handlebars from 'vite-plugin-handlebars'
+import { marked } from 'marked'
+
+const pageContentMap = {
+  '/pages/index.html': 'content/index.md',
+  '/pages/bio.html': 'content/bio.md',
+  '/pages/services.html': 'content/services.md',
+  '/pages/contact.html': 'content/contact.md',
+  '/pages/styleguide.html': 'content/styleguide.md'
+}
 
 const pageFiles = globSync(resolve(__dirname, 'pages/*.html'))
 const input = Object.fromEntries(
@@ -15,6 +24,14 @@ export default defineConfig({
   plugins: [
     handlebars({
       partialDirectory: resolve(__dirname, 'src/components'),
+      context(pagePath) {
+        const mdFile = pageContentMap[pagePath]
+        if (mdFile) {
+          const md = readFileSync(resolve(__dirname, mdFile), 'utf-8')
+          return { content: marked(md) }
+        }
+        return {}
+      },
     }),
     {
       name: 'pages-rewrite',
