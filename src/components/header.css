@@ -22,7 +22,7 @@ header .header-inner-wrapper {
   align-items: center;
   flex-direction: column;
   gap: 1.2rem;
-  padding-block: 50px;
+  padding: 50px 20px;
 }
 
 .header-logo {
