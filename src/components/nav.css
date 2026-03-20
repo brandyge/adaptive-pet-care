@@ -1,6 +1,6 @@
 .site-nav {
   --site-nav-link-hover-background-color: var(--color-primary-hover);
-  --site-nav-link-text-color: var(--color-text-primary);
+  --site-nav-link-text-color: var(--color-primary-hover);
   --site-nav-link-text-hover-color: white;
 
   background: rgba(255,255,255,.5);
