@@ -14,7 +14,7 @@ All stays include medication administration, mobility assistance, and detailed w
 - Hygiene Maintenance: Gentle sanitary cleanup and waterless or sponge-bathing for senior pets to ensure they remain clean, comfortable, and dignified between professional grooming appointments.
 - Holiday Rates: A 50% surcharge applies to major holidays.
 - Last-minute Bookings: Requests with less than 24 hours' notice may incur an additional fee.
-- The Mazzy Legacy: A portion of every stay is donated to The Animal Pad's Medical Fund: (Respite: $10 | Day: $25 | Legacy: $50).
+- The Mazzy Legacy: A portion of every stay is donated to The Animal Pad's Medical Fund.
 
 ### STANDARDS
 
@@ -23,3 +23,4 @@ All stays include medication administration, mobility assistance, and detailed w
 - 💊 Medical Management: Reliable administration of all medications and supplements.
 - 🦼 Mobility Support: Expert assistance with harnesses, slings, and carts.
 - 🧠 Cognitive Care: Support for pets experiencing "sundowning" or dementia.
+- 📄✅ Credibility & Compliance: Sunset Paws is Fully Licensed, and Insured.
