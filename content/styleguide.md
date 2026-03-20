@@ -34,3 +34,9 @@ In the examples above, the text in the [] brackets can be anything you want, and
 
 If you wanted to put a [link to your services page](https://sunsetpaws.pet/services.html) inline with a bunch of other text, you'd do it just like this
 
+#### How to make a table
+|Service|Duration|Price|
+|---|---:|---:|
+|Dog Walking|30min|$25|
+|drop in visit|20min|$20|
+
