@@ -1,5 +1,5 @@
-import './global.css'
-import './style.css'
+import './styles/global.css'
+import './styles/style.css'
 
 const form = document.getElementById('contact-form')
 if (form) {

@@ -1,5 +1,5 @@
 .paw-print-logo {
-    --logo-color: var(--color-text-primary);
+    --logo-color: var(--color-primary-hover);
 
     display: none;
     align-items: center;
@@ -8,7 +8,7 @@
 }
 
 .paw-print-logo span {
-    display: none; /* !!!TO-DO!!! hiding this for now becuase it feels redundant with the hero sunsetpaws text */
+    /*display: none; /* !!!TO-DO!!! hiding this for now becuase it feels redundant with the hero sunsetpaws text */
     font-family: var(--fancy-font-family);
     font-size: 30px;
     color: var(--logo-color);
@@ -16,8 +16,8 @@
 
 .paw-print-logo .paw-print-group-icon {
     width: 80px;
-    transform: rotateZ(-24deg);
-    fill: var(--color-primary-hover);
+    transform: rotateZ(-54deg);
+    fill: var(--logo-color);
 }
 
 @media screen and (min-width: 768px) {

@@ -1,7 +1,9 @@
 footer {
+    --footer-bg-color: var(--color-bg-secondary);
     text-align: center;
     padding: 2rem;
     font-size: 0.85rem;
     color: var(--title-color);
-    margin-top: auto;
+    margin-top: 40px;
+    background-color: var(--footer-bg-color);
   }
