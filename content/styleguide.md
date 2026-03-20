@@ -34,6 +34,8 @@ In the examples above, the text in the [] brackets can be anything you want, and
 
 If you wanted to put a [link to your services page](https://sunsetpaws.pet/services.html) inline with a bunch of other text, you'd do it just like this
 
+Testing if i can put an actual HTML link in here so i can set its target attribute to open new window: <a href="https://www.example.com" target="_blank" rel="noopener noreferrer">Link Text</a>
+
 #### How to make a table
 |Service|Duration|Price|
 |---|---:|---:|
