@@ -1,5 +1,8 @@
 .cta-button {
-    background-color: var(--color-accent-cool);
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background-color: var(--color-primary-hover);
     color: white;
     text-decoration: none;
     font-weight: bold;
@@ -9,4 +12,10 @@
     &:hover {
         box-shadow: unset;
     }
+}
+
+.paw-print-cta-icon {
+    width: 20px;
+    height: 20px;
+    fill: currentColor;
 }
