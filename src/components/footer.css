@@ -1,9 +1,28 @@
 footer {
     --footer-bg-color: var(--color-bg-secondary);
+    position: relative;
+    overflow: hidden;
     text-align: center;
     padding: 2rem;
     font-size: 0.85rem;
     color: var(--title-color);
     margin-top: 40px;
     background-color: var(--footer-bg-color);
+  }
+
+  footer .footer-bg-paw {
+    position: absolute;
+    left: -60px;
+    top: 50%;
+    transform: translateY(-50%) rotate(-54deg);
+    width: 270px;
+    height: 270px;
+    fill: var(--color-bg-primary);
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  footer p {
+    position: relative;
+    z-index: 1;
   }

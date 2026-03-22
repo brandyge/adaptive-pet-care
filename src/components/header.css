@@ -30,6 +30,11 @@ header .header-text {
   text-align: center;
 }
 
+header .header-text h1,
+header .header-text h2 {
+  text-shadow: 0px 0px 10px rgb(255, 255, 255);
+}
+
 header .header-inner-wrapper {
   position: relative;
   z-index: 1;
