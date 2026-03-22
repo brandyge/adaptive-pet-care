@@ -24,4 +24,4 @@ All stays include medication administration, mobility assistance, and detailed w
 - 💊 Medical Management: Reliable administration of all medications and supplements.
 - 🦼 Mobility Support: Expert assistance with harnesses, slings, and carts.
 - 🧠 Cognitive Care: Support for pets experiencing "sundowning" or dementia.
-- 📄✅ Credibility & Compliance: Sunset Paws is Fully Licensed, and Insured.
+- 📄✅ Credibility & Compliance: Sunset Paws is Fully Licensed and Insured.
