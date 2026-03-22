@@ -8,4 +8,4 @@ That devotion led me to dive deeper into the San Diego rescue community. Today, 
 
 These experiences allow me to turn my personal history into a professional standard of care. At Sunset Paws, I combine my career as a remote professional with my passion for rescue to provide a calm, stationary 'anchor' for your pet in the comfort of their own home.
 
--Brandy Founder of Sunset Paws
+-Brandy, Founder of Sunset Paws
