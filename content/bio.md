@@ -1,6 +1,6 @@
 ### Our Story
 
-Sunset Paws was born from a journey of love. Caring for my dog, Mazzy, through her senior years and mobility challenges was the greatest honor of my life. She taught me that special-needs pets don't just need a sitter—they need a witness, a steady hand, and a heart that understands the quiet language of a senior soul.
+Sunset Paws was born from a journey of love. Caring for my dog, Mazzy, through her senior years and mobility challenges was the greatest honor of my life. She taught me that special-needs pets don't just need a sitter, they need a witness, a steady hand, and a heart that understands the quiet language of a senior soul.
 
 Every pet I care for is treated with the same devotion I gave to her.
 
