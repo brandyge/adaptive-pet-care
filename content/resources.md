@@ -8,7 +8,8 @@ Resources:
 - <a href="https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics/senior-dog-dementia">The DISHAA Assessment Tool (Cornell University)</a> – The gold standard for owners to track disorientation, social interaction, and sleep cycles.
 - Video: Dog Dementia Explained (Holistic & Clinical) – A 2025 deep dive into why common anxiety meds often fail and how environmental changes can restore clarity
 - [Natural Solutions for Cognitive Decline](https://youtu.be/9bAk-zXBwkk?si=jvU7FE6B8kukPpIw](https://youtu.be/SolfFV_Xq0s?si=FTM_aQuByqvguiWy))
-- 🦼Mobility & Arthritis Management
+
+### 🦼Mobility & Arthritis Management
 Arthritis is about pain management and "Environmental Enrichment." These links focus on the dignity of movement.
 - <a href="https://www.aaha.org/resources/supporting-your-senior-pet-veterinary-care-recommendations/">AAHA Senior Care Guidelines for Owners (2024/2025)</a> – The most up-to-date recommendations on joint support, orthopedic bedding, and home modifications. 
 - A visual guide on the mechanics of safe lifting to protect both your back and your pet's spine.
