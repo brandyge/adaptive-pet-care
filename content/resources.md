@@ -13,7 +13,8 @@ Arthritis is about pain management and "Environmental Enrichment." These links f
 - <a href="https://www.aaha.org/resources/supporting-your-senior-pet-veterinary-care-recommendations/">AAHA Senior Care Guidelines for Owners (2024/2025)</a> – The most up-to-date recommendations on joint support, orthopedic bedding, and home modifications. 
 - A visual guide on the mechanics of safe lifting to protect both your back and your pet's spine.
 - <a href="https://helpemup.com/?tw_source=google&tw_adid=601460999218&tw_campaign=17380201842&tw_kwdid=kwd-303182566305&gad_source=1&gad_campaignid=17380201842&gbraid=0AAAAAonMBRNxud5ZKvJurW3SALUB6dhq7&gclid=Cj0KCQjwj47OBhCmARIsAF5wUEF8qJveiBq5GmWFfSqP9gqOB_qv7sY_P0wR1RFTIBdC2B5FYwzNuWYaArrmEALw_wcB" target="_blank">The Help 'Em Up Harness Training Guide </a>
-- 🐈 Specialized Feline Care (CKD & Arthritis)
+
+### 🐈 Specialized Feline Care (CKD & Arthritis)
 Senior cats are masters at hiding pain. These resources help you spot the subtle "whispers" of feline aging.
 - <a href="https://justcatsclinic.com/managing-chronic-kidney-disease-in-cats/" target="_blank"> Managing Chronic Kidney Disease (CKD) at Home </a> – A 2026 guide on hydration, renal diets, and the reality of administering Sub-Q fluids.
 - <a href="https://www.fearfreehappyhomes.com/video/activities-and-enrichment-101/Enrichment Games for the Aging Cat" target="_blank"></a> – How to keep a senior cat's brain active even when their mobility is limited.
