@@ -8,6 +8,7 @@ const pageContentMap = {
   '/pages/index.html': 'content/index.md',
   '/pages/bio.html': 'content/bio.md',
   '/pages/services.html': 'content/services.md',
+  '/pages/resources.html': 'content/resources.md',
   '/pages/contact.html': 'content/contact.md',
   '/pages/styleguide.html': 'content/styleguide.md'
 }
