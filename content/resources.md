@@ -1,5 +1,5 @@
 ## Resources for the Golden Years
-### guidance on navigating the physical and cognitive changes of aging.
+### Guidance on Navigating the Physical and Cognitive Changes of Aging.
 
 ### 🧠 Canine Cognitive Dysfunction (CCD/Dementia)
 Canine dementia is complex, but modern veterinary medicine has provided better tools for tracking it than ever before.
