@@ -20,7 +20,7 @@ AAHA Senior Care Guidelines for Owners (2024/2025) – The most up-to-date recom
 🐈 Specialized Feline Care (CKD & Arthritis)
 Senior cats are masters at hiding pain. These resources help you spot the subtle "whispers" of feline aging.
 
-<a href="https://justcatsclinic.com/managing-chronic-kidney-disease-in-cats/"target="_blank"> Managing Chronic Kidney Disease (CKD) at Home </a>– A 2026 guide on hydration, renal diets, and the reality of administering Sub-Q fluids.
+<a href="https://justcatsclinic.com/managing-chronic-kidney-disease-in-cats/" target="_blank"> Managing Chronic Kidney Disease (CKD) at Home </a> – A 2026 guide on hydration, renal diets, and the reality of administering Sub-Q fluids.
 
 <a href="https://www.fearfreehappyhomes.com/video/activities-and-enrichment-101/Enrichment Games for the Aging Cat" target="_blank"></a> – How to keep a senior cat's brain active even when their mobility is limited.
 
