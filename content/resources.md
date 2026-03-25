@@ -6,7 +6,7 @@ guidance on navigating the physical and cognitive changes of aging.
 Canine dementia is complex, but modern veterinary medicine has provided better tools for tracking it than ever before.
 Resources:
 - The DISHAA Assessment Tool (Cornell University) – The gold standard for owners to track disorientation, social interaction, and sleep cycles.
-- <a href"(https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics/senior-dog-dementia)"</a>
+- <a href="(https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics/senior-dog-dementia)"</a>
 - Video: Dog Dementia Explained (Holistic & Clinical) – A 2025 deep dive into why common anxiety meds often fail and how environmental changes can restore clarity
   - [Natural Solutions for Cognitive Decline](https://youtu.be/9bAk-zXBwkk?si=jvU7FE6B8kukPpIw](https://youtu.be/SolfFV_Xq0s?si=FTM_aQuByqvguiWy))
 
@@ -21,7 +21,7 @@ AAHA Senior Care Guidelines for Owners (2024/2025) – The most up-to-date recom
 🐈 Specialized Feline Care (CKD & Arthritis)
 Senior cats are masters at hiding pain. These resources help you spot the subtle "whispers" of feline aging.
 
-<a href="https://justcatsclinic.com/managing-chronic-kidney-disease-in-cats/"target="_blank"> Managing Chronic Kidney Disease (CKD) at Home <a/>– A 2026 guide on hydration, renal diets, and the reality of administering Sub-Q fluids.
+<a href="https://justcatsclinic.com/managing-chronic-kidney-disease-in-cats/"target="_blank"> Managing Chronic Kidney Disease (CKD) at Home </a>– A 2026 guide on hydration, renal diets, and the reality of administering Sub-Q fluids.
 
 <a href="https://www.fearfreehappyhomes.com/video/activities-and-enrichment-101/Enrichment Games for the Aging Cat"target="_blank"></a> – How to keep a senior cat's brain active even when their mobility is limited.
 
