@@ -39,12 +39,11 @@
 }
 @container (min-width: 400px) {
   .site-nav a {
-    font-size: 18px;
-    padding-inline: 7px;
+
   }
 }
 
-@container (min-width: 768px) {
+@media screen and (min-width: 768px) {
   .site-nav li {
     line-height: inherit;
   }
