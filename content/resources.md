@@ -2,8 +2,8 @@
 
 guidance on navigating the physical and cognitive changes of aging.
 
-- 🧠 Canine Cognitive Dysfunction (CCD/Dementia)
-Canine dementia is complex, but modern veterinary medicine has provided better tools for tracking it than ever before.
+### 🧠 Canine Cognitive Dysfunction (CCD/Dementia)
+- Canine dementia is complex, but modern veterinary medicine has provided better tools for tracking it than ever before.
 Resources:
 - <a href="https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics/senior-dog-dementia">The DISHAA Assessment Tool (Cornell University)</a> – The gold standard for owners to track disorientation, social interaction, and sleep cycles.
 - Video: Dog Dementia Explained (Holistic & Clinical) – A 2025 deep dive into why common anxiety meds often fail and how environmental changes can restore clarity
