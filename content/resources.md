@@ -5,7 +5,7 @@
 Canine dementia is complex, but modern veterinary medicine has provided better tools for tracking it than ever before.
 - <a href="https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics/senior-dog-dementia" target="_blank">The DISHAA Assessment Tool (Cornell University)</a> – The gold standard for owners to track disorientation, social interaction, and sleep cycles.
 - <a href="https://www.youtube.com/watch?v=SolfFV_Xq0s&feature=youtu.be" target="_blank">Dog Dementia Explained (Holistic & Clinical)</a> – A 2025 deep dive into why common anxiety meds often fail and how environmental changes can restore clarity
-- <a href="https://youtu.be/9bAk-zXBwkk?si=jvU7FE6B8kukPpIw](https://youtu.be/SolfFV_Xq0s?si=FTM_aQuByqvguiWy" target="_blank">Natural Solutions for Cognitive Decline</a>
+- How to Help Your Dog With Dementia: <a href="https://youtu.be/9bAk-zXBwkk?si=jvU7FE6B8kukPpIw](https://youtu.be/SolfFV_Xq0s?si=FTM_aQuByqvguiWy" target="_blank">Natural Solutions for Cognitive Decline</a>
 
 ### 🦼 Mobility & Arthritis Management
 Arthritis is about pain management and "Environmental Enrichment." These links focus on the dignity of movement.
