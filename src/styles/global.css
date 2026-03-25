@@ -39,9 +39,10 @@ img {
     max-width: 100%;
 }
 
-ul {
+main ul  {
   margin-left: 1em;
 }
+
 a {
     color: var(--color-text-primary);
 }
