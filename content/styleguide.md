@@ -30,6 +30,9 @@
 - [Link to Google](https://www.google.com)
 - [Link to Cloudflare](https://www.cloudflare.com)
 
+*Italics*
+*Italics just starts and ends with an asterisk*
+
 In the examples above, the text in the [] brackets can be anything you want, and that is what the link will say on the site. Whats in the () parenthasis is just the URL that you want to link to
 
 If you wanted to put a [link to your services page](https://sunsetpaws.pet/services.html) inline with a bunch of other text, you'd do it just like this
