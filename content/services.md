@@ -12,6 +12,7 @@ All stays include medication administration, mobility assistance, and detailed w
 ### The Details:
 
 - Hygiene Maintenance: Gentle sanitary cleanup and waterless or sponge-bathing for senior pets to ensure they remain clean, comfortable, and   dignified between professional grooming appointments.
+- Feline Friends: The same medical-grade vigilance and stationary presence is available for senior and special-needs cats. Specialized in CKD management and medication administration.
 - At the end of every stay, you’ll receive a digital wellness log detailing medication times, mobility notes, and appetite tracking so you stay in the loop.
 - Holiday Rates: A 50% surcharge applies to major holidays.
 - Last-minute Bookings: Requests with less than 24 hours' notice may incur an additional fee.
