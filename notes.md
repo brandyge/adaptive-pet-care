@@ -1,12 +1,12 @@
 ## Put any kind of "to-do", notes, remiders, topics for discussion, here
 
 ### Id like a QR tracking code to add to  a flyer for:
-- LaJolla(LJ): https://sunsetpaws.pet/?utm_source=flyer&utm_medium=print&utm_campaign=flyer-weekend-2026&utm_content=lj
-- NorthPark(NP): https://sunsetpaws.pet/?utm_source=flyer&utm_medium=print&utm_campaign=flyer-weekend-2026&utm_content=np
-- Kennsington (KT): https://sunsetpaws.pet/?utm_source=flyer&utm_medium=print&utm_campaign=flyer-weekend-2026&utm_content=kt
-- Downtown(DT): https://sunsetpaws.pet/?utm_source=flyer&utm_medium=print&utm_campaign=flyer-weekend-2026&utm_content=dt
-- SouthPark(SP): https://sunsetpaws.pet/?utm_source=flyer&utm_medium=print&utm_campaign=flyer-weekend-2026&utm_content=sp
-- Coronado(CO): https://sunsetpaws.pet/?utm_source=flyer&utm_medium=print&utm_campaign=flyer-weekend-2026&utm_content=co
+- LaJolla(LJ): https://sunsetpaws.pet/?utm_source=flyer&utm_medium=print&utm_campaign=flyer-weekend-2026&utm_content=lajolla -> https://sunsetpaws.pet/qr/lajolla
+- NorthPark(NP): https://sunsetpaws.pet/?utm_source=flyer&utm_medium=print&utm_campaign=flyer-weekend-2026&utm_content=northpark -> https://sunsetpaws.pet/qr/northpark
+- Kennsington (KT): https://sunsetpaws.pet/?utm_source=flyer&utm_medium=print&utm_campaign=flyer-weekend-2026&utm_content=kennsington -> https://sunsetpaws.pet/qr/kennsington
+- Downtown(DT): https://sunsetpaws.pet/?utm_source=flyer&utm_medium=print&utm_campaign=flyer-weekend-2026&utm_content=downtown -> https://sunsetpaws.pet/qr/downtown
+- SouthPark(SP): https://sunsetpaws.pet/?utm_source=flyer&utm_medium=print&utm_campaign=flyer-weekend-2026&utm_content=southpark -> https://sunsetpaws.pet/qr/southpark
+- Coronado(CO): https://sunsetpaws.pet/?utm_source=flyer&utm_medium=print&utm_campaign=flyer-weekend-2026&utm_content=coronado -> https://sunsetpaws.pet/qr/coronado
 
 For all of the links above, we are using the following codes:
 - utm_source=flyer (indicates this is a flyer of course)
