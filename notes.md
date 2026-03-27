@@ -16,7 +16,7 @@ For all of the links above, we are using the following codes:
 
 I would like a tab next to one of the top tab called Resources where I can add tips for caring for a senior or special needs tips.  This will be articles and some youtube links
 
-I would like to add this logo graphic to my webpage once i pay for my insurance: https://www.petsit.com/
+I would like to add this logo graphic to my webpage once i pay for my insurance: [https://www.petsit.com/]
 
 Future ideas:
 surgery dogs
