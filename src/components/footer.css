@@ -30,4 +30,6 @@ footer {
   footer .pet-sitters-association-logo {
     width: 250px;
     margin-bottom: 10px;
+    position: relative;
+    z-index: 2;
   }
