@@ -3,7 +3,7 @@ All stays include medication administration, mobility assistance, and detailed w
 - The Respite Break ($75) | 2–3 Hours
   Best for: Errands, appointments, or a quick mental health break.
 - The Stationary Day ($150) | ~8 Hours (Signature Service)
-  Best for: Working professionals. I remain onsite for the full workday, utilizing a quiet spot in your home to work my remote job while providing 1:1 companionship. Additional pets: +$15/visit" or "Multi-pet households welcome & custom quotes available.
+  Best for: Working professionals. I remain onsite for the full workday, utilizing a quiet spot in your home to work my remote job while providing 1:1 companionship. Multi-pet households welcome & custom quotes available.
 - The Legacy Stay ($225) | 24-Hour Period
   Best for: Traveling owners or pets in hospice care. A private-nurse style service for pets who cannot be left alone.
 - The Traveling Companion (Custom Quote)
