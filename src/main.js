@@ -10,11 +10,13 @@ if (form) {
     btn.textContent = 'Sending…'
 
     try {
-      const data = Object.fromEntries(new FormData(form))
+      const formData = new FormData(form)
+      const turnstileToken = formData.get('cf-turnstile-response')
+      const data = Object.fromEntries(formData)
       const res = await fetch('/api/contact', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(data),
+        body: JSON.stringify({ name: data.name, email: data.email, message: data.message, turnstileToken }),
       })
 
       if (res.ok) {

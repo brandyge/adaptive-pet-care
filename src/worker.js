@@ -4,10 +4,24 @@ export default {
 
     if (url.pathname === '/api/contact' && request.method === 'POST') {
       try {
-        const { name, email, message } = await request.json();
+        const { name, email, message, turnstileToken } = await request.json();
 
         if (!name || !email || !message) {
           return Response.json({ error: 'All fields are required.' }, { status: 400 });
+        }
+
+        if (!turnstileToken) {
+          return Response.json({ error: 'Verification required.' }, { status: 400 });
+        }
+
+        const turnstileRes = await fetch('https://challenges.cloudflare.com/turnstile/v0/siteverify', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ secret: env.TURNSTILE_SECRET_KEY, response: turnstileToken }),
+        });
+        const turnstileData = await turnstileRes.json();
+        if (!turnstileData.success) {
+          return Response.json({ error: 'Verification failed.' }, { status: 403 });
         }
 
         const res = await fetch('https://api.resend.com/emails', {
