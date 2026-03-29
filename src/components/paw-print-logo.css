@@ -6,6 +6,7 @@
     height: 80px;
     overflow: hidden;
     text-decoration: none;
+    flex-shrink: 0;
 }
 
 .paw-print-logo span {
@@ -19,6 +20,7 @@
     width: 80px;
     transform: rotateZ(-54deg);
     fill: var(--logo-color);
+    flex-shrink: 0;
 }
 
 @media screen and (min-width: 768px) {

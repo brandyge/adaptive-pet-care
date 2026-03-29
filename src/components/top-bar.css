@@ -1,20 +1,33 @@
 .top-bar {
     --top-bar-background-color: var(--color-secondary);
-
-    container-type: inline-size;
     position: relative;
     display: flex;
+    gap: 15px;
     justify-content: center;
     align-items: center;
     padding-block: 10px;
     background-color: var(--top-bar-background-color);
 }
 
-@media screen and (min-width: 768px) {
+.top-bar .top-bar__nav-container {
+    width: 100%;
+    container: site-nav-container / inline-size;
+}
+
+@media (min-width: 480px) {
+    .top-bar__nav-container {
+        padding-inline: var(--mobile-left-right-spacing);
+    }
+}
+
+@media (min-width: 768px) {
     .top-bar {
         padding-right: 20px;
     }
     .top-bar .site-nav {
         margin-left: auto;
+    }
+    .top-bar__nav-container {
+        padding-inline: unset;
     }
 }
