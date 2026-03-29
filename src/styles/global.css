@@ -8,6 +8,14 @@
     --min-extended-width: 960px;
 
     --mobile-left-right-spacing: 20px;
+
+    /* breakpoints: even though we cant use them in media queries. so stupid 
+      320
+      480
+      768
+    */
+
+
 }
 
 * {
