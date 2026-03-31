@@ -17,7 +17,7 @@ All stays include medication administration, mobility assistance, and detailed w
 - At the end of every stay, you’ll receive a digital wellness log detailing medication times, mobility notes, and appetite tracking so you stay in the loop.
 - Holiday Rates: A 50% surcharge applies to major holidays.
 - Last-minute Bookings: Requests with less than 24 hours' notice may incur an additional fee.
-- The Mazzy Legacy: A portion of every stay is donated to The Animal Pad's Medical Fund. <a href="https://theanimalpad.org/" target="_blank" rel="noopener noreferrer">The Animal Pad</a>, an all-breed, non-profit Dog Rescue Organization based in San Diego, CA.
+- The Mazzy Legacy: Sunset Paws is a proud supporter of The Animal Pad's Medical Fund. <a href="https://theanimalpad.org/" target="_blank" rel="noopener noreferrer">The Animal Pad</a>, an all-breed, non-profit Dog Rescue Organization based in San Diego, CA.
 
 ### STANDARDS
 
