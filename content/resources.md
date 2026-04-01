@@ -1,4 +1,4 @@
-## Resources for the Golden Years
+## Resources for your pets Golden Years
 ### Guidance on Navigating the Physical and Cognitive Changes of Aging.
 
 ### 🧠 Canine Cognitive Dysfunction (CCD/Dementia)
