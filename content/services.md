@@ -8,7 +8,7 @@ All stays include medication administration, mobility assistance, and detailed w
   Best for: Traveling owners or pets in hospice care. A private-nurse style service for pets who cannot be left alone.
 - The Traveling Companion (Custom Quote)
   Best for: Dedicated care support for senior pets on trips to Tahoe or the coast.
-- Proudly serving San Diego and surrounding areas within 15 miles. Travel fees may apply outside this radius.
+- Proudly serving San Diego and surrounding areas. Travel fees may apply outside this area.
 
 ### The Details:
 - All new clients begin with a complimentary in home Meet & Greet and Care Plan Review.
