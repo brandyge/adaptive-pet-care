@@ -3,15 +3,15 @@ All stays include medication administration, mobility assistance, and detailed w
 - The Respite Break ($75) | 2–3 Hours
   Best for: Errands, appointments, or a quick mental health break.
 - The Stationary Day ($150) | ~8 Hours (Signature Service)
-  Best for: Working professionals. I remain onsite for the full workday, utilizing a quiet spot in your home to work my remote job while providing 1:1 companionship. Multi-pet households welcome & custom quotes available.
+  Perfect for working professionals: I provide a continuous, watchful presence while performing my remote professional workp. Multi-pet households welcome & custom quotes available.
 - The Legacy Stay ($225) | 24-Hour Period
-  Best for: Traveling owners or pets in hospice care. A private-nurse style service for pets who cannot be left alone.
+  Best for: Traveling owners or pets in hospice care. Private-nurse style 24-hour monitoring.
 - The Traveling Companion (Custom Quote)
-  Best for: Dedicated care support for senior pets on trips to Tahoe or the coast.
+  Best for: Dedicated medical support for senior pets on trips you'd like them to be part of.
 - Proudly serving San Diego and surrounding areas. Travel fees may apply outside this area.
 
 ### The Details:
-- All new clients begin with a complimentary in home Meet & Greet and Care Plan Review.
+- All new clients begin with an in-home  complimentary visit and a comprehensive Care Plan Review to ensure a perfect match.
 - Hygiene Maintenance: Gentle sanitary cleanup and waterless or sponge-bathing for senior pets to ensure they remain clean, comfortable, and   dignified between professional grooming appointments.
 - Feline Friends: The same medical-grade vigilance and stationary presence is available for senior and special-needs cats. Specialized in CKD management and medication administration.
 - At the end of every stay, you’ll receive a digital wellness log detailing medication times, mobility notes, and appetite tracking so you stay in the loop.
