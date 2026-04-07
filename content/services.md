@@ -1,10 +1,11 @@
 All stays include medication administration, mobility assistance, and detailed wellness logs.
 
-- The Respite Break ($75) | 2–3 Hours
+- 90 minute Respite visit $50
+- 2-3 Hour Respite Break $75
   Best for: Errands, appointments, or a quick mental health break.
-- The Stationary Day ($150) | ~8 Hours (Signature Service)
+- 8 Hour Stay $140  (Signature Service)
   Perfect for working professionals: I provide a continuous, watchful presence while performing my remote professional workp. Multi-pet households welcome & custom quotes available.
-- The Legacy Stay ($225) | 24-Hour Period
+- Overnight Stay starting at $195-$225 24-Hour Period
   Best for: Traveling owners or pets in hospice care. Private-nurse style 24-hour monitoring.
 - The Traveling Companion (Custom Quote)
   Best for: Dedicated medical support for senior pets on trips you'd like them to be part of.
