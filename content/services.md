@@ -6,7 +6,7 @@ All stays include medication administration, mobility assistance, and detailed w
 - 8 Hour Day Stay $140  (Signature Service)
   Perfect for working professionals: I provide a continuous, watchful presence while performing my remote professional workp. Multi-pet households welcome & custom quotes available.
 - Overnight Stay starting at $195-$225 24-Hour Period
-  Best for: Traveling owners or pets in hospice care. Private-nurse style monitoring.
+  For travel, recovery support, or pets who need additional care and consistency. Pricing varies based on care needs and level of support needed. 
 - The Traveling Companion (Custom Quote)
   Best for: Dedicated medical support for senior pets on trips you'd like them to be part of.
 - Proudly serving San Diego and surrounding areas. Travel fees may apply outside this area.
