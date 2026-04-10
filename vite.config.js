@@ -10,6 +10,7 @@ const pageContentMap = {
   '/pages/services.html': 'content/services.md',
   '/pages/resources.html': 'content/resources.md',
   '/pages/contact.html': 'content/contact.md',
+  '/pages/testimonials.html': 'content/testimonials.md',
   '/pages/styleguide.html': 'content/styleguide.md'
 }
 
