@@ -1,19 +1,20 @@
 All stays include medication administration, mobility assistance, and detailed wellness logs. Specialized in calm, in home support for pets who benefit from consistency, supervision, and gentle routine based care.
 
 - 90 minute Respite visit $50
+  includes medication check in and digital wellness log.
 - 2-3 Hour Respite Break $75
-  Best for: Errands, appointments, or a quick mental health break.
+  includes all 90 minute standards. Best for: Errands, appointments, or a quick mental health break.
 - 8 Hour Day Stay $140  (Signature Service)
   Perfect for working professionals: I provide a continuous, watchful presence while performing my remote professional workp. Multi-pet households welcome & custom quotes available.
 - Overnight Stay starting at $195-$225 24-Hour Period
-  For travel, recovery support, or pets who need additional care and consistency. Pricing varies based on care needs and level of support needed. 
+  For travel, medication management, post surgical recovery support, or pets who need additional care and consistency. Pricing varies based on care needs and level of support needed. 
 - The Traveling Companion (Custom Quote)
   Best for: Dedicated medical support for senior pets on trips you'd like them to be part of.
 - Proudly serving San Diego and surrounding areas. Travel fees may apply outside this area.
 
 ### The Details:
 - All new clients begin with an in-home  complimentary visit and a comprehensive Care Plan Review to ensure a perfect match.
-- Hygiene Maintenance: Gentle sanitary cleanup and waterless or sponge-bathing for senior pets to ensure they remain clean, comfortable, and   dignified between professional grooming appointments.
+- Hygiene Maintenance: Gentle sanitary cleanup or sponge-bathing for senior pets to ensure they remain clean, comfortable, and   dignified between professional grooming appointments.
 - Feline Friends: The same medical-grade vigilance and stationary presence is available for senior and special-needs cats. Specialized in CKD management and medication administration.
 - At the end of every stay, you’ll receive a digital wellness log detailing medication times, mobility notes, and appetite tracking so you stay in the loop.
 - Holiday Rates: A 50% surcharge applies to major holidays.
