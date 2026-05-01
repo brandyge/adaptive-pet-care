@@ -1,5 +1,6 @@
 All stays include medication administration, mobility assistance, and detailed wellness logs. Specialized in calm, in home support for pets who benefit from consistency, supervision, and gentle routine based care.
 
+- 30-45 minute quick check (Medication & hydration check; quick mobility assist to yard; wellness update.) $40
 - 90 minute Respite visit $50
   includes medication check in and digital wellness log.
 - 2-3 Hour Respite Break $75
