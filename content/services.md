@@ -1,15 +1,15 @@
 All stays include medication administration, mobility assistance, and detailed wellness logs. Specialized in calm, in home support for pets who benefit from consistency, supervision, and gentle routine based care.
 
-- 30-45 minute quick check (Medication & hydration check; quick mobility assist to yard; wellness update.) $40
-- 90 minute Respite visit $50
-  includes medication check in and digital wellness log.
-- 2-3 Hour Respite Break $75
+- THE QUICK CHECK-IN (30-45 min) $40 Includes: medication & hydration check; quick mobility assist to yard;   wellness update.
+- THE QUICK RESPITE (90 min) $50
+  includes the quick check in plus additional time.
+- THE COMPLETE RESPITE BREAK (3 hrs) $85
   includes all 90 minute standards. Best for: Errands, appointments, or a quick mental health break.
-- 8 Hour Day Stay $140  (Signature Service)
+- THE SIGNATURE DAY STAY (8 hrs) $140
   Perfect for working professionals: I provide a continuous, watchful presence while performing my remote professional workp. Multi-pet households welcome & custom quotes available.
-- Overnight Stay starting at $195-$225 24-Hour Period
-  For travel, medication management, post surgical recovery support, or pets who need additional care and consistency. Pricing varies based on care needs and level of support needed. 
-- The Traveling Companion (Custom Quote)
+- OVERNIGHT STAY plus HOSPICE or OVERNIGHT RECOVERY (24 HRS) starting at $225 24-Hour Period.
+  Best For: travel, medication management, post surgical recovery support, or pets who need additional care and consistency. Pricing varies based on care needs and level of support needed. 
+- THE TRAVELING COMPANION (Custom Quote)
   Best for: Dedicated medical support for senior pets on trips you'd like them to be part of.
 - Proudly serving San Diego and surrounding areas. Travel fees may apply outside this area.
 
