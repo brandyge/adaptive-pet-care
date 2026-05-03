@@ -7,7 +7,7 @@ All stays include medication administration, mobility assistance, and detailed w
   includes all 90 minute standards. Best for: Errands, appointments, or a quick mental health break.
 - THE SIGNATURE DAY STAY (8 hrs) $140
   Perfect for working professionals: I provide a continuous, watchful presence while performing my remote professional workp. Multi-pet households welcome & custom quotes available.
-- OVERNIGHT STAY plus HIGH NEEDS VIGILANCE. or OVERNIGHT RECOVERY (24 HRS) starting at $225 24-Hour Period.
+- OVERNIGHT STAY plus HIGH NEEDS VIGILANCE or OVERNIGHT RECOVERY (24 HRS) starting at $225 24-Hour Period.
   Best For: travel, medication management, post surgical recovery support, or pets who need additional care and consistency. Pricing varies based on care needs and level of support needed. 
 - THE TRAVELING COMPANION (Custom Quote)
   Best for: Dedicated medical support for senior pets on trips you'd like them to be part of.
