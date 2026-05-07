@@ -3,8 +3,8 @@ Included in Every Visit
 🦽 Mobility Assistance: Expert aid with harnesses, slings, and carts.
 📝 Digital Wellness Log: Detailed report on meds, appetite, and mobility sent after every stay.
 
-- THE QUICK CHECK-IN (45 min) $40 Includes:Essential meds, hydration, and yard relief
-- THE QUICK RESPITE (90 min) $50 Includes:Extended companion care and comfort checks.
+- THE QUICK CHECK-IN (45 min) $40 Includes: Essential meds, hydration, and yard relief
+- THE QUICK RESPITE (90 min) $50 Includes: Extended companion care and comfort checks.
  - THE COMPLETE RESPITE BREAK (3 hrs) $85 Includes: Appointments, errands, or a caregiver break.
 - THE SIGNATURE DAY STAY (8 hrs) $140 Includes: Stationary Anchor Care: 1:1 presence while I work remotely. Multi-pet households welcome & custom quotes available.
 - OVERNIGHT STAY/OVERNIGHT RECOVERY (24 HRS) starting at $225 24-Hour Period.
