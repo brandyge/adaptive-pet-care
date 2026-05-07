@@ -11,7 +11,7 @@ All stays include medication administration, mobility assistance, and detailed w
   Best For: travel, medication management, post surgical recovery support, or pets who need additional care and consistency. Pricing varies based on care needs and level of support needed. 
 - THE TRAVELING COMPANION (Custom Quote)
   Best for: Dedicated medical support for senior pets on trips you'd like them to be part of.
-  - Packages:
+- Packages:
   - Caregiver Support Bundle	4 Quick Respite sessions	$185	Save $15 + Priority Weekend Booking status.
   - The Weekly Anchor Pass	4 Signature Day Stays	$525	Save $35 + One complimentary mid-week hygiene refresh.
   -	Transition Support Suite	2 Day Stays + 1 Overnight	$475	Save $30 + Direct "Peace of Mind"  for 24/7 check-ins.
