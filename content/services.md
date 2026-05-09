@@ -8,9 +8,9 @@ Included in Every Visit
  - THE COMPLETE RESPITE BREAK (3 hrs) $85 Includes: Appointments, errands, or a caregiver break.
 - THE SIGNATURE DAY STAY (8 hrs) $140 Includes: Stationary Anchor Care: 1:1 presence while I work remotely. Multi-pet households welcome & custom quotes available.
 - OVERNIGHT STAY/OVERNIGHT RECOVERY (24 HRS) starting at $225 24-Hour Period.
-  Best For: travel, medication management, post surgical recovery support, or pets who need additional care and consistency. Pricing varies based on care needs and level of support needed. 
+  Best For: travel, Medication prompts & routine Advanced Supportive Care,  post surgical recovery support, or pets who need additional care and consistency. Pricing varies based on care needs and level of support needed. 
 - THE TRAVELING COMPANION (Custom Quote)
-  Best for: Dedicated medical support for senior pets on trips you'd like them to be part of.
+  Best for: Dedicated and advanced Supportive Care for senior pets on trips you'd like them to be part of.
 - Care Bundles:(Save 5-10%)
   - Routine Maintenance ($145): 4 Quick-Checks per month. (Save $15 + Monthly Trend Report)
   - Caregiver Support ($185): 4 Quick Respite sessions. (Save $15 + Priority Booking)
@@ -19,12 +19,12 @@ Included in Every Visit
 	
 
 
-DETAILS
+
 ### The Details:
-- All new clients begin with an in-home  complimentary visit and a comprehensive Care Plan Review to ensure a perfect match.
+- All new clients begin with an in-home complimentary visit and a comprehensive Care Plan review to ensure a perfect match.
 - Hygiene Maintenance: Gentle sanitary cleanup or sponge-bathing for senior pets to ensure they remain clean and comfortable.
-- Feline Friends: The same High needs vigilance and stationary presence is available for senior and special needs cats. Specialized in CKD management and medication administration at owners request.
-- Sunset Paws provides non-clinical, supportive care for senior and special-needs pets. We do not diagnose, treat, or prescribe medical protocols. We act as a dedicated caregiver and authorized agent of the owner to maintain the pet’s routine and comfort as directed by the owner and their veterinary team.
+- Feline Friends: The same Advanced supportive vigilance and stationary presence is available for senior and special needs cats. Specialized in Chronic kidney support and medication administration at owners request.
+- Sunset Paws provides non clinical, supportive care for senior and special-needs pets. We do not diagnose, treat, or prescribe medical protocols. We act as a dedicated caregiver and authorized agent of the owner to maintain the pet’s routine and comfort as directed by the owner and their veterinary team.
 
 - Holiday Rates: A 50% surcharge applies to major holidays.
 - -Proudly serving San Diego and surrounding areas. Travel fees may apply outside this area.
@@ -35,7 +35,7 @@ DETAILS
 
 - 🛡️ Safety First: Red Cross Pet CPR & First Aid Certified.
 - 🧘 Fear Free Care: Specialized training to reduce anxiety and stress in senior pets.
-- 💊 Medical Management: Reliable administration of all medications and supplements.
+- 💊 Supportive Care Routines: Reliable administration of all medications and supplements.
 - 🦼 Mobility Support: Expert assistance with harnesses, slings, and carts.
 - 🧠 Cognitive Care: Support for pets experiencing "sundowning" or dementia.
 - 📄✅ Credibility & Compliance: Sunset Paws is Fully Licensed and Insured.
