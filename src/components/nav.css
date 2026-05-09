@@ -28,6 +28,10 @@
   font-weight: bold;
   border-radius: 999px;
   display: block;
+  &.current {
+    background-color: var(--site-nav-link-hover-background-color);
+    color: white;
+  }
 }
 
 @media (min-width: 320px) {

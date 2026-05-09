@@ -19,6 +19,7 @@ Included in Every Visit
 	
 
 
+DETAILS
 ### The Details:
 - All new clients begin with an in-home  complimentary visit and a comprehensive Care Plan Review to ensure a perfect match.
 - Hygiene Maintenance: Gentle sanitary cleanup or sponge-bathing for senior pets to ensure they remain clean and comfortable.
