@@ -1,10 +1,7 @@
-<nav class="site-nav" >
+<nav class="site-nav">
   <ul>
-    <li><a href="/index.html" {{#if isIndex}}class="current"{{/if}}>Home</a></li>
-    <li><a href="/services.html" {{#if isServices}}class="current"{{/if}}>Services</a></li>
-    <li><a href="/resources.html" {{#if isResources}}class="current"{{/if}}>Resources</a></li>
-    <li><a href="/bio.html" {{#if isBio}}class="current"{{/if}}>Our Story</a></li>
-    <li><a href="/contact.html" {{#if isContact}}class="current"{{/if}}>Contact Me</a></li>
-    
+    {{#each navigation}}
+    <li><a href="{{url}}"{{#if (eq url ../currentPageUrl)}} class="current"{{/if}}>{{label}}</a></li>
+    {{/each}}
   </ul>
 </nav>

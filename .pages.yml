@@ -1,0 +1,271 @@
+media:
+  input: public/images/gallery
+  output: /images/gallery
+
+content:
+  - name: settings
+    label: Site Settings
+    type: file
+    path: content/settings.json
+    format: json
+    description: Global site settings — business name, email, copyright, logos
+    fields:
+      - name: businessName
+        type: string
+        label: Business Name
+        required: true
+      - name: tagline
+        type: string
+        label: Tagline
+      - name: ownerName
+        type: string
+        label: Owner Name
+        required: true
+      - name: email
+        type: string
+        label: Contact Email
+        required: true
+      - name: siteUrl
+        type: string
+        label: Site URL
+      - name: copyrightYear
+        type: number
+        label: Copyright Year
+        required: true
+      - name: logoPath
+        type: string
+        label: Header Logo Path
+        description: "Path to the main header image — change requires a developer"
+      - name: logoAlt
+        type: string
+        label: Header Logo Alt Text
+      - name: psaLogoPath
+        type: string
+        label: PSA Logo Path
+        description: "Path to the PSA badge — change requires a developer"
+      - name: psaUrl
+        type: string
+        label: PSA Website URL
+      - name: donationOrg
+        type: object
+        label: Donation Organization
+        fields:
+          - name: name
+            type: string
+            label: Organization Name
+          - name: url
+            type: string
+            label: Organization URL
+
+  - name: navigation
+    label: Navigation
+    type: file
+    path: content/navigation.json
+    format: json
+    list: true
+    fields:
+      - name: label
+        type: string
+        label: Menu Label
+        required: true
+      - name: url
+        type: string
+        label: URL
+        required: true
+        description: "e.g. /services.html"
+      - name: order
+        type: number
+        label: Sort Order
+        required: true
+
+  - name: pages
+    label: Pages
+    type: collection
+    path: content
+    format: yaml-frontmatter
+    extension: md
+    exclude:
+      - styleguide.md
+    fields:
+      - name: title
+        type: string
+        label: Page Title
+        required: true
+      - name: subheading
+        type: string
+        label: Subheading
+      - name: metaDescription
+        type: text
+        label: Meta Description
+        description: "Used by search engines — keep under 160 characters"
+      - name: body
+        type: rich-text
+        label: Page Content
+
+  - name: services
+    label: Services
+    type: file
+    path: content/services.json
+    format: json
+    fields:
+      - name: intro
+        type: text
+        label: Intro Text
+        description: "Shown above the service tiers"
+      - name: tiers
+        type: object
+        label: Service Tiers
+        list: true
+        fields:
+          - name: name
+            type: string
+            label: Service Name
+            required: true
+          - name: price
+            type: string
+            label: Price
+            required: true
+          - name: duration
+            type: string
+            label: Duration
+            description: "e.g. 30–45 min, 8 hrs, 24-Hour Period"
+          - name: description
+            type: text
+            label: Description
+            required: true
+          - name: isSignature
+            type: boolean
+            label: Show as Signature Service?
+          - name: order
+            type: number
+            label: Sort Order
+      - name: packages
+        type: object
+        label: Packages
+        list: true
+        fields:
+          - name: name
+            type: string
+            label: Package Name
+            required: true
+          - name: includes
+            type: string
+            label: What's Included
+            required: true
+          - name: price
+            type: string
+            label: Price
+            required: true
+          - name: savings
+            type: string
+            label: Savings
+          - name: bonus
+            type: string
+            label: Bonus Perk
+          - name: order
+            type: number
+            label: Sort Order
+      - name: serviceArea
+        type: string
+        label: Service Area Note
+        description: "Shown below packages"
+      - name: details
+        type: string
+        label: Additional Details
+        list: true
+        description: "One item per line — shown in the Details section"
+      - name: standards
+        type: object
+        label: Standards & Certifications
+        list: true
+        fields:
+          - name: emoji
+            type: string
+            label: Emoji Icon
+          - name: title
+            type: string
+            label: Title
+            required: true
+          - name: description
+            type: string
+            label: Description
+            required: true
+          - name: order
+            type: number
+            label: Sort Order
+
+  - name: resources
+    label: Resources
+    type: file
+    path: content/resources.json
+    format: json
+    fields:
+      - name: pageIntro
+        type: string
+        label: Page Heading
+      - name: pageSubtitle
+        type: string
+        label: Subtitle
+      - name: categories
+        type: object
+        label: Resource Categories
+        list: true
+        fields:
+          - name: emoji
+            type: string
+            label: Emoji Icon
+          - name: title
+            type: string
+            label: Category Title
+            required: true
+          - name: description
+            type: text
+            label: Category Description
+          - name: order
+            type: number
+            label: Sort Order
+          - name: links
+            type: object
+            label: Links
+            list: true
+            fields:
+              - name: title
+                type: string
+                label: Link Title
+                required: true
+              - name: url
+                type: string
+                label: URL
+                required: true
+              - name: description
+                type: text
+                label: Description
+              - name: order
+                type: number
+                label: Sort Order
+
+  - name: gallery
+    label: Gallery
+    type: file
+    path: content/gallery.json
+    format: json
+    list: true
+    fields:
+      - name: image
+        type: image
+        label: Photo
+        required: true
+      - name: alt
+        type: string
+        label: Alt Text
+        required: true
+        description: "Describe the photo for accessibility (e.g. 'Mazzy resting in the sun')"
+      - name: caption
+        type: string
+        label: Caption
+        description: "Optional — shown below the photo"
+      - name: order
+        type: number
+        label: Display Order
+        required: true
+        description: "Lower numbers appear first"
