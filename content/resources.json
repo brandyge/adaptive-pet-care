@@ -1,0 +1,92 @@
+{
+  "pageIntro": "Resources for your pet's Golden Years",
+  "pageSubtitle": "Guidance on Navigating the Physical and Cognitive Changes of Aging.",
+  "categories": [
+    {
+      "emoji": "🧠",
+      "title": "Canine Cognitive Dysfunction (CCD/Dementia)",
+      "description": "Canine dementia is complex, but modern veterinary medicine has provided better tools for tracking it than ever before.",
+      "order": 1,
+      "links": [
+        {
+          "title": "The DISHAA Assessment Tool (Cornell University)",
+          "url": "https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics/senior-dog-dementia",
+          "description": "The gold standard for owners to track disorientation, social interaction, and sleep cycles.",
+          "order": 1
+        },
+        {
+          "title": "Dog Dementia Explained (Holistic & Clinical)",
+          "url": "https://www.youtube.com/watch?v=SolfFV_Xq0s&feature=youtu.be",
+          "description": "A 2025 deep dive into why common anxiety meds often fail and how environmental changes can restore clarity.",
+          "order": 2
+        },
+        {
+          "title": "Natural Solutions for Cognitive Decline",
+          "url": "https://youtu.be/9bAk-zXBwkk",
+          "description": "How to Help Your Dog With Dementia.",
+          "order": 3
+        }
+      ]
+    },
+    {
+      "emoji": "🦼",
+      "title": "Mobility & Arthritis Management",
+      "description": "Arthritis is about pain management and \"Environmental Enrichment.\" These links focus on the dignity of movement.",
+      "order": 2,
+      "links": [
+        {
+          "title": "AAHA Senior Care Guidelines for Owners (2024/2025)",
+          "url": "https://www.aaha.org/resources/supporting-your-senior-pet-veterinary-care-recommendations/",
+          "description": "The most up-to-date recommendations on joint support, orthopedic bedding, and home modifications.",
+          "order": 1
+        },
+        {
+          "title": "The Help 'Em Up Harness Training Guide",
+          "url": "https://helpemup.com/",
+          "description": "A visual guide on the mechanics of safe lifting to protect both your back and your pet's spine.",
+          "order": 2
+        }
+      ]
+    },
+    {
+      "emoji": "🐈",
+      "title": "Specialized Feline Care (CKD & Arthritis)",
+      "description": "Senior cats are masters at hiding pain. These resources help you spot the subtle \"whispers\" of feline aging.",
+      "order": 3,
+      "links": [
+        {
+          "title": "Managing Chronic Kidney Disease (CKD) at Home",
+          "url": "https://justcatsclinic.com/managing-chronic-kidney-disease-in-cats/",
+          "description": "A 2026 guide on hydration, renal diets, and the reality of administering Sub-Q fluids.",
+          "order": 1
+        },
+        {
+          "title": "Enrichment Games for the Aging Cat",
+          "url": "https://www.fearfreehappyhomes.com/video/activities-and-enrichment-101/",
+          "description": "How to keep a senior cat's brain active even when their mobility is limited.",
+          "order": 2
+        }
+      ]
+    },
+    {
+      "emoji": "🌈",
+      "title": "Quality of Life & Hospice",
+      "description": "When the goal shifts from \"curing\" to \"comfort,\" objectivity is your best friend.",
+      "order": 4,
+      "links": [
+        {
+          "title": "Lap of Love Quality of Life Scale (PDF)",
+          "url": "https://www.lapoflove.com/how-will-i-know-it-is-time/lap-of-love-quality-of-life-scale.pdf",
+          "description": "A clinical worksheet to help you measure the \"More Good Days than Bad\" threshold.",
+          "order": 1
+        },
+        {
+          "title": "Lap of Love: Veterinary Hospice FAQ",
+          "url": "https://www.lapoflove.com/",
+          "description": "Compassionate answers to the hardest questions about end-of-life care and palliative comfort.",
+          "order": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,12 +1,28 @@
 {{> page-top title="Sunset Paws - Resources" bodyClass="page-resources"}}
 
-{{> top-bar isResources=true}}
+{{> top-bar}}
 
 {{> header page-title="Sunset Paws" page-subheading="Pet Resources"}}
 
   <main class="layout-container">
 
-    {{{content}}}
+    <h2>{{resources.pageIntro}}</h2>
+    <p>{{resources.pageSubtitle}}</p>
+
+    {{#each resources.categories}}
+    <h3>{{emoji}} {{title}}</h3>
+    <p>{{description}}</p>
+    {{#if links}}
+    <ul>
+      {{#each links}}
+      <li>
+        <a href="{{url}}" target="_blank" rel="noopener noreferrer">{{title}}</a>
+        {{#if description}} — {{description}}{{/if}}
+      </li>
+      {{/each}}
+    </ul>
+    {{/if}}
+    {{/each}}
 
   </main>
 

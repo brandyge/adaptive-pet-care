@@ -1,0 +1,16 @@
+{
+  "businessName": "Sunset Paws",
+  "tagline": "Specialized Respite for your pets Golden Years",
+  "ownerName": "Brandy Geiger",
+  "email": "requests@sunsetpaws.pet",
+  "siteUrl": "https://sunsetpaws.pet",
+  "copyrightYear": 2026,
+  "logoPath": "/images/FullGraphicALLDOGS_16-color.png",
+  "logoAlt": "Sunset Paws Group Photo",
+  "psaLogoPath": "/images/icons/psa-logo.svg",
+  "psaUrl": "https://www.petsitllc.com",
+  "donationOrg": {
+    "name": "The Animal Pad",
+    "url": "https://theanimalpad.org/"
+  }
+}

@@ -1,11 +1,52 @@
 {{> page-top title="Sunset Paws - Services" bodyClass="page-services"}}
 
-{{> top-bar isServices=true}}
+{{> top-bar}}
 
 {{> header page-title="Sunset Paws" page-subheading="Our Services"}}
 
-  <main class="layout-container">    
-    {{{content}}}
+  <main class="layout-container">
+
+    <p>{{services.intro}}</p>
+
+    <ul>
+      {{#each services.tiers}}
+      <li>
+        <strong>{{name}}</strong> ({{price}}){{#if duration}} | {{duration}}{{/if}}{{#if isSignature}} — <em>Signature Service</em>{{/if}}<br>
+        {{description}}
+      </li>
+      {{/each}}
+    </ul>
+
+    {{#if services.packages}}
+    <h3>Packages</h3>
+    <ul>
+      {{#each services.packages}}
+      <li>
+        <strong>{{name}}</strong> — {{includes}} — {{price}}<br>
+        {{savings}}{{#if bonus}} + {{bonus}}{{/if}}
+      </li>
+      {{/each}}
+    </ul>
+    {{/if}}
+
+    {{#if services.serviceArea}}
+    <p><em>{{services.serviceArea}}</em></p>
+    {{/if}}
+
+    <h3>The Details:</h3>
+    <ul>
+      {{#each services.details}}
+      <li>{{{this}}}</li>
+      {{/each}}
+    </ul>
+
+    <h3>Standards</h3>
+    <ul>
+      {{#each services.standards}}
+      <li>{{emoji}} <strong>{{title}}:</strong> {{description}}</li>
+      {{/each}}
+    </ul>
+
   </main>
 
   {{> footer}}

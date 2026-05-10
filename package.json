@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "gray-matter": "^4.0.3",
     "vite": "^7.1.0",
     "vite-plugin-handlebars": "^2.0.0",
     "wrangler": "^4.0.0"

@@ -1,0 +1,33 @@
+[
+  {
+    "image": "/images/gallery/mazzy-63.jpg",
+    "alt": "Mazzy resting comfortably",
+    "order": 1
+  },
+  {
+    "image": "/images/gallery/mazzy-76.jpg",
+    "alt": "Mazzy enjoying the day",
+    "order": 2
+  },
+  {
+    "image": "/images/gallery/mazzy-sunset.jpg",
+    "alt": "Mazzy at sunset",
+    "order": 3
+  },
+  {
+    "image": "/images/gallery/mazzy-sunset-2.jpg",
+    "alt": "Mazzy watching the sunset",
+    "order": 4
+  },
+  {
+    "image": "/images/gallery/IMG_7136.jpg",
+    "alt": "Pet care moment",
+    "order": 5
+  },
+  {
+    "image": "/images/gallery/sunsetpaws_group-photo_transparent-02.svg",
+    "alt": "testing uploading a new gallery image",
+    "caption": "new gallery image",
+    "order": 0
+  }
+]

@@ -1,3 +1,9 @@
+---
+title: Sunset Paws
+subheading: "A Legacy of Love. A Standard of Pet Care"
+metaDescription: Learn how Mazzy inspired Brandy Geiger to found Sunset Paws — specialized respite care for senior and special-needs pets in San Diego.
+---
+
 ### Our Story
 
 Sunset Paws was born from a journey of love. Caring for my dog, Mazzy, through her senior years and mobility challenges was the greatest honor of my life. She taught me that special-needs pets don't just need a sitter, they need a witness, a steady hand, and a heart that understands the quiet language of a senior soul.

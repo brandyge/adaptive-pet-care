@@ -1,0 +1,7 @@
+[
+  { "label": "Home", "url": "/index.html", "order": 1 },
+  { "label": "Services", "url": "/services.html", "order": 2 },
+  { "label": "Resources", "url": "/resources.html", "order": 3 },
+  { "label": "Our Story", "url": "/bio.html", "order": 4 },
+  { "label": "Contact Me", "url": "/contact.html", "order": 5 }
+]

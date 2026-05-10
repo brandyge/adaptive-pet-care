@@ -1,12 +1,12 @@
 <footer>
     <svg class="footer-bg-paw" aria-hidden="true"><use href="#paw-print-group-logo"></use></svg>
     <div class="footer-logo-container">
-      <a href="https://www.petsitllc.com" class="footer-logo">
-        <img src="/images/icons/psa-logo.svg" class="pet-sitters-association-logo" alt="Pet Sitters Association Member" />
+      <a href="{{settings.psaUrl}}" class="footer-logo">
+        <img src="{{settings.psaLogoPath}}" class="pet-sitters-association-logo" alt="Pet Sitters Association Member" />
       </a>
       <a href="https://amerimedcpr.com/pet-cpr-and-first-aid/" class="footer-logo">
         <img src="/images/pet-CPR-logo-final-4-18-19-Picsart-BackgroundRemover.png" class="pet-cpr-logo" alt="Pet CPR Certified" />
       </a>
     </div>
-    <p>&copy; <a href="mailto:requests@sunsetpaws.pet">2026 Sunset Paws &middot; Brandy Geiger</a></p>
+    <p>&copy; <a href="mailto:{{settings.email}}">{{settings.copyrightYear}} {{settings.businessName}} &middot; {{settings.ownerName}}</a></p>
   </footer>
