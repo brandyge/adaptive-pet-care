@@ -26,7 +26,7 @@ Included in Every Visit
 - Feline Friends: The same Advanced supportive vigilance and stationary presence is available for senior and special needs cats. Specialized in Chronic kidney support and medication administration at owners request.
 - Sunset Paws provides non clinical, supportive care for senior and special-needs pets. We do not diagnose, treat, or prescribe medical protocols. We act as a dedicated caregiver and authorized agent of the owner to maintain the pet’s routine and comfort as directed by the owner and their veterinary team.
 
-- Holiday Rates: A 50% surcharge applies to major holidays.
+- Holiday Rates: A 25% surcharge applies to major holidays.
 - Proudly serving San Diego and surrounding areas. Travel fees may apply outside this area.
 - Last-minute Bookings: Requests with less than 24 hours' notice may incur an additional fee.
 - The Mazzy Legacy: Sunset Paws is a proud supporter of The Animal Pad's Medical Fund. <a href="https://theanimalpad.org/" target="_blank" rel="noopener noreferrer">The Animal Pad</a>, an all-breed, non-profit Dog Rescue Organization based in San Diego, CA.
