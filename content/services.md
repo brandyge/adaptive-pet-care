@@ -3,12 +3,12 @@ Included in Every Visit
 🦽 Mobility Assistance: Expert aid with harnesses, slings, and carts.
 📝 Digital Wellness Log: Detailed report on meds, appetite, and mobility sent after every stay.
 
-- THE QUICK CHECK-IN (45 min) $40 Includes: Essential meds, hydration, and yard relief
-- THE QUICK RESPITE (90 min) $50 Includes: Extended companion care and comfort checks.
+- THE QUICK CHECK-IN (45 min) $40 Includes: Essential meds or a Potty & Paws break for aging bladders.
+- THE QUICK RESPITE (90 min) $50 Includes: Low impact companionship & for seniors who still love to sniff and explore but need a slower pace.
  - THE COMPLETE RESPITE BREAK (3 hrs) $85 Includes: Appointments, errands, or a caregiver break.
-- THE SIGNATURE DAY STAY (8 hrs) $125 Includes: Stationary Anchor Care: 1:1 presence while I work remotely. Multi-pet households welcome & custom quotes available.
+- THE SIGNATURE DAY STAY (8 hrs) $125 Includes: The Office Buddy: A calm environment for pets who want to snooze near a human. Multi-pet households welcome.
 - OVERNIGHT STAY/OVERNIGHT RECOVERY (24 HRS) starting at $225 24-Hour Period.
-  Best For: travel, medication prompts & routine Advanced Supportive Care,  post surgical recovery support, or pets who need additional care and consistency. Pricing varies based on care needs and level of support needed. 
+  Best For: travel, medication prompts & routine Advanced Supportive Care,  post surgical recovery support, or pets who need additional care and consistency or predictable fear free bedtimes. Pricing varies based on care needs and level of support needed. 
 - THE TRAVELING COMPANION (Custom Quote)
   Best for: Dedicated and advanced Supportive Care for senior pets on trips you'd like them to be part of.
 - Care Bundles:(Save 5-10%)
