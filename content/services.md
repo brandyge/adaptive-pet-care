@@ -15,14 +15,14 @@ Included in Every Visit
   - Routine Maintenance ($145): 4 Quick-Checks per month. (Save $15 + Monthly Trend Report)
   - Caregiver Support ($185): 4 Quick Respite sessions. (Save $15 + Priority Booking)
   - Transition Support ($475): 2 Day Stays + 1 Overnight. (Save $30 + 24/7 Peace of Mind access)
-  -	The Weekly Anchor ($525): 4 Signature Day Stays (1/week). (Save $35 + Free Hygiene Refresh)
+  -	The Weekly Anchor ($525): 4 Signature Day Stays (1/week). (Save $35 + Free gentle bath as needed)
 	
 
 
 
 ### The Details:
 - All new clients begin with an in-home complimentary visit and a comprehensive Care Plan review to ensure a perfect match.
-- Hygiene Maintenance: Gentle sanitary cleanup or sponge-bathing for senior pets to ensure they remain clean and comfortable.
+- Hygiene Maintenance: Gentle sanitary cleanup or comfort bath for senior pets to ensure they remain clean, dignified and comfortable.
 - Feline Friends: The same Advanced supportive vigilance and stationary presence is available for senior and special needs cats. Specialized in Chronic kidney support and medication administration at owners request.
 - Sunset Paws provides non clinical, supportive care for senior and special-needs pets. We do not diagnose, treat, or prescribe medical protocols. We act as a dedicated caregiver and authorized agent of the owner to maintain the pet’s routine and comfort as directed by the owner and their veterinary team.
 
