@@ -23,7 +23,7 @@ Included in Every Visit
 ### The Details:
 - All new clients begin with an in-home complimentary visit and a comprehensive Care Plan review to ensure a perfect match.
 - Hygiene Maintenance: Gentle sanitary cleanup or comfort bath for senior pets to ensure they remain clean, dignified and comfortable.
-- Feline Friends: The same Advanced supportive vigilance and stationary presence is available for senior and special needs cats. Support for feline hydration routines and medication prompts per veterinary instruction. Contact for rates
+- Feline Friends: The same advanced supportive vigilance and stationary presence is available for senior and special needs cats. Support for feline hydration routines and medication prompts per veterinary instruction. Contact for rates
 - Sunset Paws provides non clinical, supportive care for senior and special-needs pets. We do not diagnose, treat, or prescribe medical protocols. We act as a dedicated caregiver and authorized agent of the owner to maintain the pet’s routine and comfort as directed by the owner and their veterinary team.
 
 - Holiday Rates: A 25% surcharge applies to major holidays.
