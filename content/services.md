@@ -8,7 +8,7 @@ Included in Every Visit
  - THE COMPLETE RESPITE BREAK (3 hrs) $85 Includes: Appointments, errands, or a caregiver break.
 - THE SIGNATURE DAY STAY (8 hrs) $125 Includes: Stationary Anchor Care: 1:1 presence while I work remotely. Multi-pet households welcome & custom quotes available.
 - OVERNIGHT STAY/OVERNIGHT RECOVERY (24 HRS) starting at $225 24-Hour Period.
-  Best For: travel, Medication prompts & routine Advanced Supportive Care,  post surgical recovery support, or pets who need additional care and consistency. Pricing varies based on care needs and level of support needed. 
+  Best For: travel, medication prompts & routine Advanced Supportive Care,  post surgical recovery support, or pets who need additional care and consistency. Pricing varies based on care needs and level of support needed. 
 - THE TRAVELING COMPANION (Custom Quote)
   Best for: Dedicated and advanced Supportive Care for senior pets on trips you'd like them to be part of.
 - Care Bundles:(Save 5-10%)
@@ -23,12 +23,12 @@ Included in Every Visit
 ### The Details:
 - All new clients begin with an in-home complimentary visit and a comprehensive Care Plan review to ensure a perfect match.
 - Hygiene Maintenance: Gentle sanitary cleanup or comfort bath for senior pets to ensure they remain clean, dignified and comfortable.
-- Feline Friends: The same Advanced supportive vigilance and stationary presence is available for senior and special needs cats. Specialized in Chronic kidney support and medication administration at owners request.
+- Feline Friends: The same Advanced supportive vigilance and stationary presence is available for senior and special needs cats. Specialized in Chronic kidney support and medication administration at owners request. Contact for rates
 - Sunset Paws provides non clinical, supportive care for senior and special-needs pets. We do not diagnose, treat, or prescribe medical protocols. We act as a dedicated caregiver and authorized agent of the owner to maintain the pet’s routine and comfort as directed by the owner and their veterinary team.
 
 - Holiday Rates: A 25% surcharge applies to major holidays.
 - Proudly serving San Diego and surrounding areas. Travel fees may apply outside this area.
-- Last-minute Bookings: Requests with less than 24 hours' notice may incur an additional fee.
+- Last-minute Bookings: Requests with less than 24 hours notice may incur an additional fee.
 - The Mazzy Legacy: Sunset Paws is a proud supporter of The Animal Pad's Medical Fund. <a href="https://theanimalpad.org/" target="_blank" rel="noopener noreferrer">The Animal Pad</a>, an all-breed, non-profit Dog Rescue Organization based in San Diego, CA.
 
 ### STANDARDS
