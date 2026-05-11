@@ -8,7 +8,7 @@ Included in Every Visit
  - THE COMPLETE RESPITE BREAK (3 hrs) $85 Includes: Appointments, errands, or a caregiver break.
 - THE SIGNATURE DAY STAY (8 hrs) $125 Includes: The Office Buddy: A calm environment for pets who want to snooze near a human. Multi-pet households welcome.
 - OVERNIGHT STAY/OVERNIGHT RECOVERY (24 HRS) starting at $225 24-Hour Period.
-  Best For: travel, medication prompts & routine Advanced Supportive Care,  post surgical recovery support, or pets who need additional care and consistency or predictable fear free bedtimes. Pricing varies based on care needs and level of support needed. 
+  Best For: travel, medication prompts & routine Advanced Supportive Care, comfort-focused support and vigilance during recovery, and pets who need additional care and consistency or predictable fear free bedtimes. Pricing varies based on care needs and level of support needed. 
 - THE TRAVELING COMPANION (Custom Quote)
   Best for: Dedicated and advanced Supportive Care for senior pets on trips you'd like them to be part of.
 - Care Bundles:(Save 5-10%)
@@ -23,7 +23,7 @@ Included in Every Visit
 ### The Details:
 - All new clients begin with an in-home complimentary visit and a comprehensive Care Plan review to ensure a perfect match.
 - Hygiene Maintenance: Gentle sanitary cleanup or comfort bath for senior pets to ensure they remain clean, dignified and comfortable.
-- Feline Friends: The same Advanced supportive vigilance and stationary presence is available for senior and special needs cats. Specialized in Chronic kidney support and medication administration at owners request. Contact for rates
+- Feline Friends: The same Advanced supportive vigilance and stationary presence is available for senior and special needs cats. Support for feline hydration routines and medication prompts per veterinary instruction. Contact for rates
 - Sunset Paws provides non clinical, supportive care for senior and special-needs pets. We do not diagnose, treat, or prescribe medical protocols. We act as a dedicated caregiver and authorized agent of the owner to maintain the pet’s routine and comfort as directed by the owner and their veterinary team.
 
 - Holiday Rates: A 25% surcharge applies to major holidays.
