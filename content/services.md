@@ -14,7 +14,7 @@ Included in Every Visit
 - Care Bundles:(Save 5-10%)
   - Routine Maintenance ($145): 4 Quick-Checks per month. (Save $15 + Monthly Trend Report)
   - Caregiver Support ($185): 4 Quick Respite sessions. (Save $15 + Priority Booking)
-  - Transition Support ($475): 2 Day Stays + 1 Overnight. (Save $30 + 24/7 "Peace of Mind" access)
+  - Transition Support ($475): 2 Day Stays + 1 Overnight. (Save $30 + 24/7 Peace of Mind access)
   -	The Weekly Anchor ($525): 4 Signature Day Stays (1/week). (Save $35 + Free Hygiene Refresh)
 	
 
