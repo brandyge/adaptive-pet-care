@@ -6,7 +6,7 @@ Included in Every Visit
 - THE QUICK CHECK-IN (45 min) $40 Includes: Essential meds, hydration, and yard relief
 - THE QUICK RESPITE (90 min) $50 Includes: Extended companion care and comfort checks.
  - THE COMPLETE RESPITE BREAK (3 hrs) $85 Includes: Appointments, errands, or a caregiver break.
-- THE SIGNATURE DAY STAY (8 hrs) $140 Includes: Stationary Anchor Care: 1:1 presence while I work remotely. Multi-pet households welcome & custom quotes available.
+- THE SIGNATURE DAY STAY (8 hrs) $125 Includes: Stationary Anchor Care: 1:1 presence while I work remotely. Multi-pet households welcome & custom quotes available.
 - OVERNIGHT STAY/OVERNIGHT RECOVERY (24 HRS) starting at $225 24-Hour Period.
   Best For: travel, Medication prompts & routine Advanced Supportive Care,  post surgical recovery support, or pets who need additional care and consistency. Pricing varies based on care needs and level of support needed. 
 - THE TRAVELING COMPANION (Custom Quote)
