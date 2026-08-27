@@ -3,19 +3,19 @@ Included in Every Visit
 🦽 Mobility Assistance: Expert aid with harnesses, slings, and carts.
 📝 Digital Wellness Log: Detailed report on meds, appetite, and mobility sent after every stay.
 
-- THE QUICK CHECK-IN (45 min) $40 Includes: Essential meds or a Potty & Paws break for aging bladders.
-- THE QUICK RESPITE (90 min) $50 Includes: Low impact companionship & for seniors who still love to sniff and explore but need a slower pace.
- - THE COMPLETE RESPITE BREAK (3 hrs) $85 Includes: Appointments, errands, or a caregiver break.
-- THE SIGNATURE DAY STAY (8 hrs) $125 Includes: The Office Buddy: A calm environment for pets who want to snooze near a human. Multi-pet households welcome.
-- OVERNIGHT STAY/OVERNIGHT RECOVERY (24 HRS) starting at $225 24-Hour Period.
+- THE QUICK CHECK-IN (45 min)|$40 Includes: Essential meds or a Potty & Paws break for aging bladders.
+- THE QUICK RESPITE (90 min)|$50 Includes: Low impact companionship & for seniors who still love to sniff and explore but need a slower pace.
+ - THE COMPLETE RESPITE BREAK (3 hrs)|$85 Includes: Appointments, errands, or a caregiver break.
+- THE SIGNATURE DAY STAY (8 hrs)|$125 Includes: The Office Buddy: A calm environment for pets who want to snooze near a human. Multi-pet households welcome.
+- OVERNIGHT STAY/OVERNIGHT RECOVERY (24 HRS) starting at $195 to $225 24-Hour Period.
   Best For: travel, medication prompts & routine advanced Supportive Care, comfort-focused support and vigilance during recovery, and pets who need additional care and consistency or predictable fear free bedtimes. Pricing varies based on care needs and level of support needed. 
 - THE TRAVELING COMPANION (Custom Quote)
   Best for: Dedicated and advanced supportive Care for senior pets on trips you'd like them to be part of.
 - Care Bundles:(Save 5-10%)
   - Routine Maintenance ($145): 4 Quick-Checks per month. (Save $15 + Monthly Trend Report)
   - Caregiver Support ($185): 4 Quick Respite sessions. (Save $15 + Priority Booking)
-  - Transition Support ($475): 2 Day Stays + 1 Overnight. (Save $30 + 24/7 Peace of Mind access)
-  -	The Weekly Anchor ($525): 4 Signature Day Stays (1/week). (Save $35 + Free gentle bath as needed)
+  - Transition Support ($445): 2 Day Stays + 1 Overnight. (Save $30 + 24/7 Peace of Mind access)
+  -	The Weekly Anchor ($450): 4 Signature Day Stays (1/week). (Save $35 + Free gentle bath as needed)
 	
 
 
