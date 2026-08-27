@@ -1,4 +1,5 @@
 Included in Every Visit
+
 💊 Medication Support: Administration strictly as an authorized agent of the owner.
 🦽 Mobility Assistance: Expert aid with harnesses, slings, and carts.
 📝 Digital Wellness Log: Detailed report on meds, appetite, and mobility sent after every stay.
