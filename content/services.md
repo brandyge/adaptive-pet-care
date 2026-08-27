@@ -4,10 +4,10 @@
 *🦽 **Mobility Assistance**: Expert aid with harnesses, slings, and carts.
 *📝 **Digital Wellness Log**: Detailed report on meds, appetite, and mobility sent after every stay.
 
-- THE QUICK CHECK-IN (45 min)|$40 Includes: Essential meds or a Potty & Paws break for aging bladders.
-- THE QUICK RESPITE (90 min)|$50 Includes: Low impact companionship & for seniors who still love to sniff and explore but need a slower pace.
- - THE COMPLETE RESPITE BREAK (3 hrs)|$85 Includes: Appointments, errands, or a caregiver break.
-- THE SIGNATURE DAY STAY (8 hrs)|$125 Includes: The Office Buddy: A calm environment for pets who want to snooze near a human. Multi-pet households welcome.
+- THE QUICK CHECK-IN (45 min)| $40 Includes: Essential meds or a Potty & Paws break for aging bladders.
+- THE QUICK RESPITE (90 min)| $50 Includes: Low impact companionship & for seniors who still love to sniff and explore but need a slower pace.
+ - THE COMPLETE RESPITE BREAK (3 hrs)| $85 Includes: Appointments, errands, or a caregiver break.
+- THE SIGNATURE DAY STAY (8 hrs)| $125 Includes: The Office Buddy: A calm environment for pets who want to snooze near a human. Multi-pet households welcome.
 - OVERNIGHT STAY/OVERNIGHT RECOVERY (24 HRS) starting at $195 to $225 24-Hour Period.
   Best For: travel, medication prompts & routine advanced Supportive Care, comfort-focused support and vigilance during recovery, and pets who need additional care and consistency or predictable fear free bedtimes. Pricing varies based on care needs and level of support needed. 
 - THE TRAVELING COMPANION (Custom Quote)
