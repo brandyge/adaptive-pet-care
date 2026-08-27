@@ -1,8 +1,8 @@
 **Included in Every Visit**
 
-*💊 Medication Support: Administration strictly as an authorized agent of the owner.
-*🦽 Mobility Assistance: Expert aid with harnesses, slings, and carts.
-*📝 Digital Wellness Log: Detailed report on meds, appetite, and mobility sent after every stay.
+*💊 **Medication Support**: Administration strictly as an authorized agent of the owner.
+*🦽 **Mobility Assistance**: Expert aid with harnesses, slings, and carts.
+*📝 **Digital Wellness Log**: Detailed report on meds, appetite, and mobility sent after every stay.
 
 - THE QUICK CHECK-IN (45 min)|$40 Includes: Essential meds or a Potty & Paws break for aging bladders.
 - THE QUICK RESPITE (90 min)|$50 Includes: Low impact companionship & for seniors who still love to sniff and explore but need a slower pace.
