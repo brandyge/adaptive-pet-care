@@ -11,3 +11,5 @@
 -- Janessa G, San Diego
 
 *I’ve been adopting senior dogs for 20 years, and had a lot of petsitters during that time. Brandy Geiger is one of the best. Goes without saying the dogs love her. Their enthusiastic welcome is unmistakable. The old pugs and chugs have eyedrops and meds galore, and sometimes frail bodies. Brandy is highly conscientious about details. She takes lots of notes, and sends lots of photos, and always calls when she says she will. She and I talked during Mazzy’s last year. This mission of caring for older dogs runs deep in her soul. I travel without worry for my beloved dogs when Brandy is here.* -- Nancy H, San Diego
+
+*https://biz.yelp.com/biz_info/Ztxf0kzKJrE-qcG6vhW1Yw/
