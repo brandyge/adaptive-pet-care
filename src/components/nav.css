@@ -10,8 +10,9 @@
 
 .site-nav ul {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
-  justify-content: space-around;
+  justify-content: center;
   list-style: none;
 }
 
@@ -28,6 +29,7 @@
   font-weight: bold;
   border-radius: 999px;
   display: block;
+  white-space: nowrap;
   &.current {
     background-color: var(--site-nav-link-hover-background-color);
     color: white;
@@ -55,10 +57,10 @@
 
 @media (min-width: 768px) {
   .site-nav {
-    max-width: 650px;
+    max-width: 750px;
   }
   .site-nav a {
-    padding: 8px 16px;
+    padding: 8px 12px;
   }
   .site-nav ul {
 
