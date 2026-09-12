@@ -6,7 +6,13 @@
 
   <main class="layout-container">
     {{{content}}}
-    {{> contact-form}}
+
+    <a href="#availability-calendar" class="jump-to-calendar">View my calendar for availability</a>
+
+    <div class="contact-columns">
+      {{> contact-form}}
+      {{> availability-calendar}}
+    </div>
   </main>
 
   {{> footer}}

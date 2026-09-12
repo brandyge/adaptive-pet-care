@@ -54,6 +54,10 @@ Requires the `RESEND_API_KEY` secret on Cloudflare:
 npx wrangler secret put RESEND_API_KEY
 ```
 
+### Google Calendar (Availability)
+
+The contact page embeds a public Google Calendar (via `src/components/availability-calendar.html`) so visitors can see which days are already booked. It's a plain `<iframe>` pointed at the calendar owner's public calendar `src` — no API key or backend involved. If the calendar changes, update the `src` query param in that file's iframe URL.
+
 ## Hosting & Deployment
 
 The site is hosted on **Cloudflare Workers** with static asset serving from `./dist`. Configuration is in `wrangler.jsonc`.

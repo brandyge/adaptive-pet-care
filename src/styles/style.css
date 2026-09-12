@@ -6,6 +6,8 @@
 @import '../components/top-bar.css';
 @import '../components/gallery.css';
 @import '../components/contact-form.css';
+@import '../components/availability-calendar.css';
+@import '../components/contact-layout.css';
 @import '../components/cta-button.css';
 @import '../components/styleguide.css';
 @import '../components/paw-print-logo.css';
