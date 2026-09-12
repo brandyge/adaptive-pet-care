@@ -1,0 +1,29 @@
+.contact-columns {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.jump-to-calendar {
+  display: inline-block;
+  margin: 0.5rem 0 1rem;
+  color: var(--color-primary);
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+@media screen and (min-width: 768px) {
+  .contact-columns {
+    flex-direction: row;
+    align-items: flex-start;
+  }
+
+  .contact-columns > * {
+    flex: 1 1 0;
+    min-width: 0;
+  }
+
+  .jump-to-calendar {
+    display: none;
+  }
+}
